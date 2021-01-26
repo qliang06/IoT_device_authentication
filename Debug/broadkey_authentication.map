@@ -1,0 +1,2240 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+                              ./USER/broadkey_no_enroll/src/broadkey_demo_app.o (bk_get_product_info)
+c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-exit.o)
+                              c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o (exit)
+c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-impure.o)
+                              c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-exit.o) (_global_impure_ptr)
+c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-init.o)
+                              c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o (__libc_init_array)
+c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memcpy.o)
+                              ./USER/broadkey_no_enroll/src/broadkey_demo_app.o (memcpy)
+c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memset.o)
+                              c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o (memset)
+c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o)
+                              c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-exit.o) (__call_exitprocs)
+c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-atexit.o)
+                              c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o) (atexit)
+c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-fini.o)
+                              c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o) (__libc_fini_array)
+c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__atexit.o)
+                              c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-atexit.o) (__register_exitproc)
+c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)
+                              c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-exit.o) (_exit)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+ .data          0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+ .bss           0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+ .text          0x00000000       0x5c c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .data          0x00000000        0x4 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .bss           0x00000000       0x1c c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .init_array    0x00000000        0x4 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .fini_array    0x00000000        0x4 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .eh_frame      0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .jcr           0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .ARM.attributes
+                0x00000000       0x2d c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .text          0x00000000       0x74 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .data          0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .bss           0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.exidx     0x00000000        0x8 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.attributes
+                0x00000000       0x1b c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .group         0x00000000        0x8 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .group         0x00000000        0x8 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .group         0x00000000        0x8 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .group         0x00000000        0x8 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .group         0x00000000        0x8 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .group         0x00000000        0x8 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .group         0x00000000        0x8 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .group         0x00000000        0x8 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .group         0x00000000        0x8 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .group         0x00000000        0x8 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .group         0x00000000        0x8 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .group         0x00000000        0x8 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .text          0x00000000        0x0 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .data          0x00000000        0x0 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .bss           0x00000000        0x0 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .text.demo_version
+                0x00000000       0xa4 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .text.demo_get_random_bytes
+                0x00000000       0x14 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .text.demo_get_symmetric_key
+                0x00000000       0x84 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .text.demo_get_private_key
+                0x00000000       0x94 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .text.demo_wrap_and_unwrap
+                0x00000000      0x17c ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .text.demo_derive_public_key_from_private_key
+                0x00000000      0x120 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .text.demo_import_and_export_public_key
+                0x00000000      0x1c8 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .text.demo_ecdh_shared_secret
+                0x00000000       0x90 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .text.demo_generate_and_process_cryptogram
+                0x00000000      0x384 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .text.read_ac  0x00000000       0xc0 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .group         0x00000000        0x8 ./USER/broadkey_no_enroll/src/iid_print.o
+ .group         0x00000000        0x8 ./USER/broadkey_no_enroll/src/iid_print.o
+ .group         0x00000000        0x8 ./USER/broadkey_no_enroll/src/iid_print.o
+ .group         0x00000000        0x8 ./USER/broadkey_no_enroll/src/iid_print.o
+ .group         0x00000000        0x8 ./USER/broadkey_no_enroll/src/iid_print.o
+ .group         0x00000000        0x8 ./USER/broadkey_no_enroll/src/iid_print.o
+ .group         0x00000000        0x8 ./USER/broadkey_no_enroll/src/iid_print.o
+ .group         0x00000000        0x8 ./USER/broadkey_no_enroll/src/iid_print.o
+ .group         0x00000000        0x8 ./USER/broadkey_no_enroll/src/iid_print.o
+ .group         0x00000000        0x8 ./USER/broadkey_no_enroll/src/iid_print.o
+ .text          0x00000000        0x0 ./USER/broadkey_no_enroll/src/iid_print.o
+ .data          0x00000000        0x0 ./USER/broadkey_no_enroll/src/iid_print.o
+ .bss           0x00000000        0x0 ./USER/broadkey_no_enroll/src/iid_print.o
+ .text.print_hexhalfword
+                0x00000000       0x2c ./USER/broadkey_no_enroll/src/iid_print.o
+ .text.print_num
+                0x00000000       0x38 ./USER/broadkey_no_enroll/src/iid_print.o
+ .text.reverse  0x00000000       0x5c ./USER/broadkey_no_enroll/src/iid_print.o
+ .text.itoa     0x00000000       0x90 ./USER/broadkey_no_enroll/src/iid_print.o
+ .debug_macro   0x00000000      0x868 ./USER/broadkey_no_enroll/src/iid_print.o
+ .debug_macro   0x00000000       0x1c ./USER/broadkey_no_enroll/src/iid_print.o
+ .debug_macro   0x00000000       0x22 ./USER/broadkey_no_enroll/src/iid_print.o
+ .debug_macro   0x00000000       0x87 ./USER/broadkey_no_enroll/src/iid_print.o
+ .debug_macro   0x00000000       0x44 ./USER/broadkey_no_enroll/src/iid_print.o
+ .debug_macro   0x00000000       0xfd ./USER/broadkey_no_enroll/src/iid_print.o
+ .debug_macro   0x00000000       0x5e ./USER/broadkey_no_enroll/src/iid_print.o
+ .debug_macro   0x00000000      0x1df ./USER/broadkey_no_enroll/src/iid_print.o
+ .debug_macro   0x00000000       0x22 ./USER/broadkey_no_enroll/src/iid_print.o
+ .debug_macro   0x00000000       0x19 ./USER/broadkey_no_enroll/src/iid_print.o
+ .group         0x00000000        0x8 ./USER/broadkey_no_enroll/src/iid_usart.o
+ .group         0x00000000        0x8 ./USER/broadkey_no_enroll/src/iid_usart.o
+ .group         0x00000000        0x8 ./USER/broadkey_no_enroll/src/iid_usart.o
+ .group         0x00000000        0x8 ./USER/broadkey_no_enroll/src/iid_usart.o
+ .group         0x00000000        0x8 ./USER/broadkey_no_enroll/src/iid_usart.o
+ .group         0x00000000        0x8 ./USER/broadkey_no_enroll/src/iid_usart.o
+ .group         0x00000000        0x8 ./USER/broadkey_no_enroll/src/iid_usart.o
+ .group         0x00000000        0x8 ./USER/broadkey_no_enroll/src/iid_usart.o
+ .group         0x00000000        0x8 ./USER/broadkey_no_enroll/src/iid_usart.o
+ .group         0x00000000        0x8 ./USER/broadkey_no_enroll/src/iid_usart.o
+ .group         0x00000000        0x8 ./USER/broadkey_no_enroll/src/iid_usart.o
+ .group         0x00000000        0x8 ./USER/broadkey_no_enroll/src/iid_usart.o
+ .group         0x00000000        0x8 ./USER/broadkey_no_enroll/src/iid_usart.o
+ .group         0x00000000        0x8 ./USER/broadkey_no_enroll/src/iid_usart.o
+ .group         0x00000000        0x8 ./USER/broadkey_no_enroll/src/iid_usart.o
+ .group         0x00000000        0x8 ./USER/broadkey_no_enroll/src/iid_usart.o
+ .group         0x00000000        0x8 ./USER/broadkey_no_enroll/src/iid_usart.o
+ .text          0x00000000        0x0 ./USER/broadkey_no_enroll/src/iid_usart.o
+ .data          0x00000000        0x0 ./USER/broadkey_no_enroll/src/iid_usart.o
+ .bss           0x00000000        0x0 ./USER/broadkey_no_enroll/src/iid_usart.o
+ .debug_macro   0x00000000      0x868 ./USER/broadkey_no_enroll/src/iid_usart.o
+ .debug_macro   0x00000000       0x22 ./USER/broadkey_no_enroll/src/iid_usart.o
+ .debug_macro   0x00000000       0x87 ./USER/broadkey_no_enroll/src/iid_usart.o
+ .debug_macro   0x00000000       0x44 ./USER/broadkey_no_enroll/src/iid_usart.o
+ .debug_macro   0x00000000       0xfd ./USER/broadkey_no_enroll/src/iid_usart.o
+ .debug_macro   0x00000000       0x5e ./USER/broadkey_no_enroll/src/iid_usart.o
+ .debug_macro   0x00000000      0x1df ./USER/broadkey_no_enroll/src/iid_usart.o
+ .debug_macro   0x00000000       0x1c ./USER/broadkey_no_enroll/src/iid_usart.o
+ .debug_macro   0x00000000       0x22 ./USER/broadkey_no_enroll/src/iid_usart.o
+ .debug_macro   0x00000000       0x19 ./USER/broadkey_no_enroll/src/iid_usart.o
+ .group         0x00000000        0x8 ./USER/gw1ns2c_it.o
+ .group         0x00000000        0x8 ./USER/gw1ns2c_it.o
+ .group         0x00000000        0x8 ./USER/gw1ns2c_it.o
+ .group         0x00000000        0x8 ./USER/gw1ns2c_it.o
+ .group         0x00000000        0x8 ./USER/gw1ns2c_it.o
+ .group         0x00000000        0x8 ./USER/gw1ns2c_it.o
+ .group         0x00000000        0x8 ./USER/gw1ns2c_it.o
+ .group         0x00000000        0x8 ./USER/gw1ns2c_it.o
+ .group         0x00000000        0x8 ./USER/gw1ns2c_it.o
+ .group         0x00000000        0x8 ./USER/gw1ns2c_it.o
+ .group         0x00000000        0x8 ./USER/gw1ns2c_it.o
+ .group         0x00000000        0x8 ./USER/gw1ns2c_it.o
+ .group         0x00000000        0x8 ./USER/gw1ns2c_it.o
+ .group         0x00000000        0x8 ./USER/gw1ns2c_it.o
+ .text          0x00000000        0x0 ./USER/gw1ns2c_it.o
+ .data          0x00000000        0x0 ./USER/gw1ns2c_it.o
+ .bss           0x00000000        0x0 ./USER/gw1ns2c_it.o
+ .debug_macro   0x00000000      0x868 ./USER/gw1ns2c_it.o
+ .debug_macro   0x00000000       0x22 ./USER/gw1ns2c_it.o
+ .debug_macro   0x00000000       0x22 ./USER/gw1ns2c_it.o
+ .debug_macro   0x00000000       0x22 ./USER/gw1ns2c_it.o
+ .debug_macro   0x00000000       0x87 ./USER/gw1ns2c_it.o
+ .debug_macro   0x00000000       0x44 ./USER/gw1ns2c_it.o
+ .debug_macro   0x00000000       0xfd ./USER/gw1ns2c_it.o
+ .debug_macro   0x00000000       0x5e ./USER/gw1ns2c_it.o
+ .debug_macro   0x00000000      0x1df ./USER/gw1ns2c_it.o
+ .debug_macro   0x00000000      0x7b7 ./USER/gw1ns2c_it.o
+ .debug_macro   0x00000000      0x3b5 ./USER/gw1ns2c_it.o
+ .debug_macro   0x00000000       0x6a ./USER/gw1ns2c_it.o
+ .debug_macro   0x00000000       0x7c ./USER/gw1ns2c_it.o
+ .debug_macro   0x00000000       0x22 ./USER/gw1ns2c_it.o
+ .group         0x00000000        0x8 ./USER/led.o
+ .group         0x00000000        0x8 ./USER/led.o
+ .group         0x00000000        0x8 ./USER/led.o
+ .group         0x00000000        0x8 ./USER/led.o
+ .group         0x00000000        0x8 ./USER/led.o
+ .group         0x00000000        0x8 ./USER/led.o
+ .group         0x00000000        0x8 ./USER/led.o
+ .group         0x00000000        0x8 ./USER/led.o
+ .group         0x00000000        0x8 ./USER/led.o
+ .group         0x00000000        0x8 ./USER/led.o
+ .group         0x00000000        0x8 ./USER/led.o
+ .group         0x00000000        0x8 ./USER/led.o
+ .group         0x00000000        0x8 ./USER/led.o
+ .text          0x00000000        0x0 ./USER/led.o
+ .data          0x00000000        0x0 ./USER/led.o
+ .bss           0x00000000        0x0 ./USER/led.o
+ .text.led_init
+                0x00000000       0x1c ./USER/led.o
+ .text.led_on   0x00000000       0x60 ./USER/led.o
+ .text.led_off  0x00000000       0x60 ./USER/led.o
+ .text.led_toggle
+                0x00000000       0xb4 ./USER/led.o
+ .debug_info    0x00000000      0x27f ./USER/led.o
+ .debug_abbrev  0x00000000      0x109 ./USER/led.o
+ .debug_aranges
+                0x00000000       0x38 ./USER/led.o
+ .debug_ranges  0x00000000       0x28 ./USER/led.o
+ .debug_macro   0x00000000       0xbc ./USER/led.o
+ .debug_macro   0x00000000      0x868 ./USER/led.o
+ .debug_macro   0x00000000       0x22 ./USER/led.o
+ .debug_macro   0x00000000       0x87 ./USER/led.o
+ .debug_macro   0x00000000       0x44 ./USER/led.o
+ .debug_macro   0x00000000       0xfd ./USER/led.o
+ .debug_macro   0x00000000       0x5e ./USER/led.o
+ .debug_macro   0x00000000      0x1df ./USER/led.o
+ .debug_macro   0x00000000       0x22 ./USER/led.o
+ .debug_macro   0x00000000      0x7d5 ./USER/led.o
+ .debug_macro   0x00000000      0x3b5 ./USER/led.o
+ .debug_macro   0x00000000       0x6a ./USER/led.o
+ .debug_macro   0x00000000       0x7c ./USER/led.o
+ .debug_macro   0x00000000       0x22 ./USER/led.o
+ .debug_line    0x00000000      0x45a ./USER/led.o
+ .debug_str     0x00000000     0x7d8a ./USER/led.o
+ .comment       0x00000000       0x6f ./USER/led.o
+ .debug_frame   0x00000000       0x98 ./USER/led.o
+ .ARM.attributes
+                0x00000000       0x33 ./USER/led.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .text          0x00000000        0x0 ./USER/main.o
+ .data          0x00000000        0x0 ./USER/main.o
+ .bss           0x00000000        0x0 ./USER/main.o
+ .rodata.sram_puf
+                0x00000000        0x4 ./USER/main.o
+ .rodata.sram_ac
+                0x00000000        0x4 ./USER/main.o
+ .debug_macro   0x00000000      0x868 ./USER/main.o
+ .debug_macro   0x00000000       0x22 ./USER/main.o
+ .debug_macro   0x00000000       0x22 ./USER/main.o
+ .debug_macro   0x00000000       0x22 ./USER/main.o
+ .debug_macro   0x00000000       0x87 ./USER/main.o
+ .debug_macro   0x00000000       0x44 ./USER/main.o
+ .debug_macro   0x00000000       0xfd ./USER/main.o
+ .debug_macro   0x00000000       0x5e ./USER/main.o
+ .debug_macro   0x00000000      0x1df ./USER/main.o
+ .debug_macro   0x00000000      0x7b7 ./USER/main.o
+ .debug_macro   0x00000000      0x3b5 ./USER/main.o
+ .debug_macro   0x00000000       0x6a ./USER/main.o
+ .debug_macro   0x00000000       0x7c ./USER/main.o
+ .debug_macro   0x00000000       0x22 ./USER/main.o
+ .debug_macro   0x00000000       0x1c ./USER/main.o
+ .debug_macro   0x00000000       0x22 ./USER/main.o
+ .debug_macro   0x00000000       0x19 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/printf.o
+ .group         0x00000000        0x8 ./USER/printf.o
+ .group         0x00000000        0x8 ./USER/printf.o
+ .group         0x00000000        0x8 ./USER/printf.o
+ .group         0x00000000        0x8 ./USER/printf.o
+ .group         0x00000000        0x8 ./USER/printf.o
+ .group         0x00000000        0x8 ./USER/printf.o
+ .group         0x00000000        0x8 ./USER/printf.o
+ .group         0x00000000        0x8 ./USER/printf.o
+ .group         0x00000000        0x8 ./USER/printf.o
+ .group         0x00000000        0x8 ./USER/printf.o
+ .group         0x00000000        0x8 ./USER/printf.o
+ .text          0x00000000        0x0 ./USER/printf.o
+ .data          0x00000000        0x0 ./USER/printf.o
+ .bss           0x00000000        0x0 ./USER/printf.o
+ .text._out_buffer
+                0x00000000       0x2c ./USER/printf.o
+ .text._out_null
+                0x00000000       0x1c ./USER/printf.o
+ .text._out_char
+                0x00000000       0x2c ./USER/printf.o
+ .text._out_fct
+                0x00000000       0x30 ./USER/printf.o
+ .text._strnlen_s
+                0x00000000       0x3c ./USER/printf.o
+ .text._is_digit
+                0x00000000       0x30 ./USER/printf.o
+ .text._atoi    0x00000000       0x4c ./USER/printf.o
+ .text._out_rev
+                0x00000000       0xa4 ./USER/printf.o
+ .text._ntoa_format
+                0x00000000      0x1b8 ./USER/printf.o
+ .text._ntoa_long
+                0x00000000       0xd4 ./USER/printf.o
+ .text._vsnprintf
+                0x00000000      0x7fc ./USER/printf.o
+ .text.printf_  0x00000000       0x38 ./USER/printf.o
+ .text.sprintf_
+                0x00000000       0x38 ./USER/printf.o
+ .text.snprintf_
+                0x00000000       0x38 ./USER/printf.o
+ .text.vprintf_
+                0x00000000       0x2c ./USER/printf.o
+ .text.vsnprintf_
+                0x00000000       0x2c ./USER/printf.o
+ .text.fctprintf
+                0x00000000       0x44 ./USER/printf.o
+ .debug_info    0x00000000      0x979 ./USER/printf.o
+ .debug_abbrev  0x00000000      0x1d6 ./USER/printf.o
+ .debug_aranges
+                0x00000000       0xa0 ./USER/printf.o
+ .debug_ranges  0x00000000       0x90 ./USER/printf.o
+ .debug_macro   0x00000000      0x102 ./USER/printf.o
+ .debug_macro   0x00000000      0x868 ./USER/printf.o
+ .debug_macro   0x00000000       0x22 ./USER/printf.o
+ .debug_macro   0x00000000       0x22 ./USER/printf.o
+ .debug_macro   0x00000000       0x87 ./USER/printf.o
+ .debug_macro   0x00000000       0x44 ./USER/printf.o
+ .debug_macro   0x00000000       0xfd ./USER/printf.o
+ .debug_macro   0x00000000       0x5e ./USER/printf.o
+ .debug_macro   0x00000000      0x1df ./USER/printf.o
+ .debug_macro   0x00000000       0x58 ./USER/printf.o
+ .debug_macro   0x00000000      0x174 ./USER/printf.o
+ .debug_macro   0x00000000       0x22 ./USER/printf.o
+ .debug_macro   0x00000000       0x1c ./USER/printf.o
+ .debug_line    0x00000000      0x6e3 ./USER/printf.o
+ .debug_str     0x00000000     0x3bed ./USER/printf.o
+ .comment       0x00000000       0x6f ./USER/printf.o
+ .debug_frame   0x00000000      0x2e8 ./USER/printf.o
+ .ARM.attributes
+                0x00000000       0x33 ./USER/printf.o
+ .group         0x00000000        0x8 ./USER/uart_test.o
+ .group         0x00000000        0x8 ./USER/uart_test.o
+ .group         0x00000000        0x8 ./USER/uart_test.o
+ .group         0x00000000        0x8 ./USER/uart_test.o
+ .group         0x00000000        0x8 ./USER/uart_test.o
+ .group         0x00000000        0x8 ./USER/uart_test.o
+ .group         0x00000000        0x8 ./USER/uart_test.o
+ .group         0x00000000        0x8 ./USER/uart_test.o
+ .group         0x00000000        0x8 ./USER/uart_test.o
+ .group         0x00000000        0x8 ./USER/uart_test.o
+ .group         0x00000000        0x8 ./USER/uart_test.o
+ .group         0x00000000        0x8 ./USER/uart_test.o
+ .group         0x00000000        0x8 ./USER/uart_test.o
+ .group         0x00000000        0x8 ./USER/uart_test.o
+ .group         0x00000000        0x8 ./USER/uart_test.o
+ .group         0x00000000        0x8 ./USER/uart_test.o
+ .group         0x00000000        0x8 ./USER/uart_test.o
+ .text          0x00000000        0x0 ./USER/uart_test.o
+ .data          0x00000000        0x0 ./USER/uart_test.o
+ .bss           0x00000000        0x0 ./USER/uart_test.o
+ .rodata.starts_str
+                0x00000000       0x4f ./USER/uart_test.o
+ .rodata.logo_str
+                0x00000000      0x23c ./USER/uart_test.o
+ .text._putchar
+                0x00000000       0x20 ./USER/uart_test.o
+ .text.printf_str
+                0x00000000       0x18 ./USER/uart_test.o
+ .rodata        0x00000000       0xce ./USER/uart_test.o
+ .text.sw_edition_print
+                0x00000000       0x34 ./USER/uart_test.o
+ .text.start_info_print
+                0x00000000       0x38 ./USER/uart_test.o
+ .text.uart0_init
+                0x00000000       0x40 ./USER/uart_test.o
+ .text.uart1_init
+                0x00000000       0x40 ./USER/uart_test.o
+ .text.uart2_init
+                0x00000000       0x40 ./USER/uart_test.o
+ .text.uart3_init
+                0x00000000       0x40 ./USER/uart_test.o
+ .text.uart0_read
+                0x00000000       0x34 ./USER/uart_test.o
+ .text.uart1_read
+                0x00000000       0x34 ./USER/uart_test.o
+ .text.uart2_read
+                0x00000000       0x34 ./USER/uart_test.o
+ .text.uart3_read
+                0x00000000       0x34 ./USER/uart_test.o
+ .text.delay    0x00000000       0x20 ./USER/uart_test.o
+ .text.init_misc
+                0x00000000       0x2c ./USER/uart_test.o
+ .text.printf_test
+                0x00000000       0x30 ./USER/uart_test.o
+ .text.uart_test
+                0x00000000      0x10c ./USER/uart_test.o
+ .debug_info    0x00000000      0x537 ./USER/uart_test.o
+ .debug_abbrev  0x00000000      0x1b5 ./USER/uart_test.o
+ .debug_aranges
+                0x00000000       0x98 ./USER/uart_test.o
+ .debug_ranges  0x00000000       0x88 ./USER/uart_test.o
+ .debug_macro   0x00000000      0x126 ./USER/uart_test.o
+ .debug_macro   0x00000000      0x868 ./USER/uart_test.o
+ .debug_macro   0x00000000       0x22 ./USER/uart_test.o
+ .debug_macro   0x00000000       0x22 ./USER/uart_test.o
+ .debug_macro   0x00000000       0x22 ./USER/uart_test.o
+ .debug_macro   0x00000000       0x87 ./USER/uart_test.o
+ .debug_macro   0x00000000       0x44 ./USER/uart_test.o
+ .debug_macro   0x00000000       0xfd ./USER/uart_test.o
+ .debug_macro   0x00000000       0x5e ./USER/uart_test.o
+ .debug_macro   0x00000000      0x1df ./USER/uart_test.o
+ .debug_macro   0x00000000      0x7b7 ./USER/uart_test.o
+ .debug_macro   0x00000000      0x3b5 ./USER/uart_test.o
+ .debug_macro   0x00000000       0x6a ./USER/uart_test.o
+ .debug_macro   0x00000000       0x7c ./USER/uart_test.o
+ .debug_macro   0x00000000       0x22 ./USER/uart_test.o
+ .debug_macro   0x00000000       0x58 ./USER/uart_test.o
+ .debug_macro   0x00000000      0x174 ./USER/uart_test.o
+ .debug_macro   0x00000000       0x22 ./USER/uart_test.o
+ .debug_line    0x00000000      0x5df ./USER/uart_test.o
+ .debug_str     0x00000000     0x8436 ./USER/uart_test.o
+ .comment       0x00000000       0x6f ./USER/uart_test.o
+ .debug_frame   0x00000000      0x240 ./USER/uart_test.o
+ .ARM.attributes
+                0x00000000       0x33 ./USER/uart_test.o
+ .group         0x00000000        0x8 ./SYSTEM/system_gw1ns2c.o
+ .group         0x00000000        0x8 ./SYSTEM/system_gw1ns2c.o
+ .group         0x00000000        0x8 ./SYSTEM/system_gw1ns2c.o
+ .group         0x00000000        0x8 ./SYSTEM/system_gw1ns2c.o
+ .group         0x00000000        0x8 ./SYSTEM/system_gw1ns2c.o
+ .group         0x00000000        0x8 ./SYSTEM/system_gw1ns2c.o
+ .group         0x00000000        0x8 ./SYSTEM/system_gw1ns2c.o
+ .group         0x00000000        0x8 ./SYSTEM/system_gw1ns2c.o
+ .group         0x00000000        0x8 ./SYSTEM/system_gw1ns2c.o
+ .group         0x00000000        0x8 ./SYSTEM/system_gw1ns2c.o
+ .group         0x00000000        0x8 ./SYSTEM/system_gw1ns2c.o
+ .group         0x00000000        0x8 ./SYSTEM/system_gw1ns2c.o
+ .group         0x00000000        0x8 ./SYSTEM/system_gw1ns2c.o
+ .group         0x00000000        0x8 ./SYSTEM/system_gw1ns2c.o
+ .text          0x00000000        0x0 ./SYSTEM/system_gw1ns2c.o
+ .data          0x00000000        0x0 ./SYSTEM/system_gw1ns2c.o
+ .bss           0x00000000        0x0 ./SYSTEM/system_gw1ns2c.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0x40 ./SYSTEM/system_gw1ns2c.o
+ .debug_macro   0x00000000      0x868 ./SYSTEM/system_gw1ns2c.o
+ .debug_macro   0x00000000       0x22 ./SYSTEM/system_gw1ns2c.o
+ .debug_macro   0x00000000       0x22 ./SYSTEM/system_gw1ns2c.o
+ .debug_macro   0x00000000       0x22 ./SYSTEM/system_gw1ns2c.o
+ .debug_macro   0x00000000       0x87 ./SYSTEM/system_gw1ns2c.o
+ .debug_macro   0x00000000       0x44 ./SYSTEM/system_gw1ns2c.o
+ .debug_macro   0x00000000       0xfd ./SYSTEM/system_gw1ns2c.o
+ .debug_macro   0x00000000       0x5e ./SYSTEM/system_gw1ns2c.o
+ .debug_macro   0x00000000      0x1df ./SYSTEM/system_gw1ns2c.o
+ .debug_macro   0x00000000      0x7b7 ./SYSTEM/system_gw1ns2c.o
+ .debug_macro   0x00000000      0x3b5 ./SYSTEM/system_gw1ns2c.o
+ .debug_macro   0x00000000       0x6a ./SYSTEM/system_gw1ns2c.o
+ .debug_macro   0x00000000       0x7c ./SYSTEM/system_gw1ns2c.o
+ .debug_macro   0x00000000       0x22 ./SYSTEM/system_gw1ns2c.o
+ .data          0x00000000        0x0 ./STARTUP/startup_gw1ns2c.o
+ .bss           0x00000000        0x0 ./STARTUP/startup_gw1ns2c.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .text          0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .data          0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .bss           0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .text.ADC_Init
+                0x00000000       0x88 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .text.ADC_SetMode
+                0x00000000       0x40 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .text.ADC_GetMode
+                0x00000000       0x24 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .text.ADC_SetPowerStatus
+                0x00000000       0x70 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .text.ADC_GetPowerStatus
+                0x00000000       0x24 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .text.ADC_SetChannel
+                0x00000000       0x30 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .text.ADC_GetChannel
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .text.ADC_GetEocStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_adc.o
+ .text.ADC_GetSocStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_adc.o
+ .text.ADC_ReadData
+                0x00000000       0x14 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_info    0x00000000      0x255 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_abbrev  0x00000000      0x10b ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_aranges
+                0x00000000       0x68 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_ranges  0x00000000       0x58 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_macro   0x00000000       0xd0 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_macro   0x00000000      0x868 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_macro   0x00000000       0x87 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_macro   0x00000000       0x44 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_macro   0x00000000       0xfd ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_macro   0x00000000       0x5e ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_macro   0x00000000      0x1df ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_macro   0x00000000      0x7b7 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_macro   0x00000000      0x3b5 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_macro   0x00000000       0x6a ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_macro   0x00000000       0x7c ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_macro   0x00000000       0x58 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_line    0x00000000      0x4e2 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_str     0x00000000     0x7fa3 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .comment       0x00000000       0x6f ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_frame   0x00000000      0x170 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .ARM.attributes
+                0x00000000       0x33 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .text          0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .data          0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .bss           0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .text.GPIO_SetOutEnable
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .text.GPIO_ClrOutEnable
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .text.GPIO_WriteBits
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .text.GPIO_ReadBits
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .text.GPIO_GetOutEnable
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .text.GPIO_SetAltFunc
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .text.GPIO_ClrAltFunc
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .text.GPIO_GetAltFunc
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .text.GPIO_IntClear
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .text.GPIO_GetIntStatus
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .text.GPIO_SetIntEnable
+                0x00000000       0x24 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .text.GPIO_ClrIntEnable
+                0x00000000       0x24 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .text.GPIO_SetIntHighLevel
+                0x00000000       0x38 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .text.GPIO_SetIntRisingEdge
+                0x00000000       0x38 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .text.GPIO_SetIntLowLevel
+                0x00000000       0x38 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .text.GPIO_SetIntFallingEdge
+                0x00000000       0x38 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .text.GPIO_MaskedWrite
+                0x00000000       0x38 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_macro   0x00000000      0x868 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_macro   0x00000000       0x87 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_macro   0x00000000       0x44 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_macro   0x00000000       0xfd ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_macro   0x00000000       0x5e ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_macro   0x00000000      0x1df ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_macro   0x00000000      0x7b7 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_macro   0x00000000      0x3b5 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_macro   0x00000000       0x6a ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text          0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .data          0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .bss           0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_Init
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_Clr
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetGPIO0Pin0IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetGPIO0Pin0IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrGPIO0Pin0IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetGPIO0Pin1IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetGPIO0Pin1IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrGPIO0Pin1IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetGPIO0Pin2IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetGPIO0Pin2IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrGPIO0Pin2IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetGPIO0Pin3IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetGPIO0Pin3IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrGPIO0Pin3IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetGPIO0Pin4IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetGPIO0Pin4IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrGPIO0Pin4IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetGPIO0Pin5IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetGPIO0Pin5IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrGPIO0Pin5IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetGPIO0Pin6IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetGPIO0Pin6IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrGPIO0Pin6IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetGPIO0Pin7IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetGPIO0Pin7IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrGPIO0Pin7IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetGPIO0Pin8IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetGPIO0Pin8IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrGPIO0Pin8IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetGPIO0Pin9IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetGPIO0Pin9IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrGPIO0Pin9IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetGPIO0Pin10IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetGPIO0Pin10IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrGPIO0Pin10IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetGPIO0Pin11IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetGPIO0Pin11IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrGPIO0Pin11IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetGPIO0Pin12IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetGPIO0Pin12IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrGPIO0Pin12IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetGPIO0Pin13IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetGPIO0Pin13IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrGPIO0Pin13IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetGPIO0Pin14IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetGPIO0Pin14IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrGPIO0Pin14IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetGPIO0Pin15IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetGPIO0Pin15IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrGPIO0Pin15IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetTIMER0IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetTIMER0IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrTIMER0IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetTIMER1IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetTIMER1IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrTIMER1IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetUART0IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetUART0IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrUART0IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetUART1IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetUART1IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrUART1IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetWDOGIntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetWDOGIntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrWDOGIntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_info    0x00000000      0x5be ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_abbrev  0x00000000      0x100 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_aranges
+                0x00000000      0x220 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_ranges  0x00000000      0x210 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_macro   0x00000000       0xd0 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_macro   0x00000000      0x868 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_macro   0x00000000       0x87 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_macro   0x00000000       0x44 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_macro   0x00000000       0xfd ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_macro   0x00000000       0x5e ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_macro   0x00000000      0x1df ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_macro   0x00000000      0x7b7 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_macro   0x00000000      0x3b5 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_macro   0x00000000       0x6a ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_macro   0x00000000       0x7c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_macro   0x00000000       0x82 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_line    0x00000000      0x8ad ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_str     0x00000000     0x8743 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .comment       0x00000000       0x6f ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_frame   0x00000000      0x830 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .ARM.attributes
+                0x00000000       0x33 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .text          0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .data          0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .bss           0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_macro   0x00000000      0x868 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_macro   0x00000000       0x87 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_macro   0x00000000       0x44 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_macro   0x00000000       0xfd ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_macro   0x00000000       0x5e ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_macro   0x00000000      0x1df ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_macro   0x00000000      0x7b7 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_macro   0x00000000      0x3b5 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_macro   0x00000000       0x6a ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_macro   0x00000000       0x7c ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .text          0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .data          0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .bss           0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .text.NVIC_PriorityGroupConfig
+                0x00000000       0x24 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .text.NVIC_Init
+                0x00000000       0xc4 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .text.NVIC_SetVectorTable
+                0x00000000       0x2c ./PERIPHER/Sources/gw1ns2c_misc.o
+ .text.SysTick_CLKSourceConfig
+                0x00000000       0x24 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_info    0x00000000      0x4c6 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_abbrev  0x00000000      0x15b ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_aranges
+                0x00000000       0x38 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_ranges  0x00000000       0x28 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_macro   0x00000000       0xd6 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_macro   0x00000000      0x868 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_macro   0x00000000       0x87 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_macro   0x00000000       0x44 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_macro   0x00000000       0xfd ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_macro   0x00000000       0x5e ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_macro   0x00000000      0x1df ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_macro   0x00000000      0x7b7 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_macro   0x00000000      0x3b5 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_macro   0x00000000       0x6a ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_macro   0x00000000       0x7c ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_macro   0x00000000       0x2e ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_line    0x00000000      0x46c ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_str     0x00000000     0x8008 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .comment       0x00000000       0x6f ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_frame   0x00000000       0xb0 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .ARM.attributes
+                0x00000000       0x33 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text          0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .data          0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .bss           0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_Init
+                0x00000000       0x68 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_SetDirection
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_ClrDirection
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_GetDirection
+                0x00000000       0x24 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_SetPhase
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_ClrPhase
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_GetPhase
+                0x00000000       0x24 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_SetPolarity
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_ClrPolarity
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_GetPolarity
+                0x00000000       0x24 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_SetClkSel
+                0x00000000       0x34 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_GetClkSel
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_GetToeStatus
+                0x00000000       0x24 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_GetRoeStatus
+                0x00000000       0x24 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_GetTmtStatus
+                0x00000000       0x24 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_GetTrdyStatus
+                0x00000000       0x24 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_GetRrdyStatus
+                0x00000000       0x24 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_GetErrStatus
+                0x00000000       0x24 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_ClrToeStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_ClrRoeStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_ClrErrStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_WriteData
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_ReadData
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_info    0x00000000      0x3a8 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_abbrev  0x00000000      0x18d ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_aranges
+                0x00000000       0xd0 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_ranges  0x00000000       0xc0 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_macro   0x00000000       0xd0 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_macro   0x00000000      0x868 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_macro   0x00000000       0x87 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_macro   0x00000000       0x44 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_macro   0x00000000       0xfd ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_macro   0x00000000       0x5e ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_macro   0x00000000      0x1df ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_macro   0x00000000      0x7b7 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_macro   0x00000000      0x3b5 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_macro   0x00000000       0x6a ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_macro   0x00000000       0x7c ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_macro   0x00000000       0x5e ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_line    0x00000000      0x5ba ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_str     0x00000000     0x8096 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .comment       0x00000000       0x6f ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_frame   0x00000000      0x308 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .ARM.attributes
+                0x00000000       0x33 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .text          0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .data          0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .bss           0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .text.SYSCON_Init
+                0x00000000       0x28 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .text.SYSCON_GetRemap
+                0x00000000       0x14 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .text.SYSCON_GetPmuctrlEnable
+                0x00000000       0x14 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .text.SYSCON_GetResetopLockuprst
+                0x00000000       0x14 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .text.SYSCON_GetRstinfoSysresetreq
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .text.SYSCON_GetRstinfoWdogresetreq
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .text.SYSCON_GetRstinfoLockreset
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_info    0x00000000      0x1ad ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_abbrev  0x00000000       0xce ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_aranges
+                0x00000000       0x50 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_ranges  0x00000000       0x40 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_macro   0x00000000       0xd0 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_macro   0x00000000      0x868 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_macro   0x00000000       0x87 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_macro   0x00000000       0x44 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_macro   0x00000000       0xfd ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_macro   0x00000000       0x5e ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_macro   0x00000000      0x1df ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_macro   0x00000000      0x7b7 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_macro   0x00000000      0x3b5 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_macro   0x00000000       0x6a ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_macro   0x00000000       0x7c ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_macro   0x00000000       0x16 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_line    0x00000000      0x498 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_str     0x00000000     0x7e0e ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .comment       0x00000000       0x6f ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_frame   0x00000000       0xf0 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .ARM.attributes
+                0x00000000       0x33 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .text          0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .data          0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .bss           0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .text.TIMER_Init
+                0x00000000       0x9c ./PERIPHER/Sources/gw1ns2c_timer.o
+ .text.TIMER_StartTimer
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .text.TIMER_StopTimer
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .text.TIMER_GetIRQStatus
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .text.TIMER_ClearIRQ
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .text.TIMER_GetReload
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .text.TIMER_SetReload
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_timer.o
+ .text.TIMER_GetValue
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .text.TIMER_SetValue
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_timer.o
+ .text.TIMER_EnableIRQ
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .text.TIMER_DisableIRQ
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .text.TIMER_SelExtEnable
+                0x00000000       0x28 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .text.TIMER_SelExtClock
+                0x00000000       0x28 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_info    0x00000000      0x3d0 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_abbrev  0x00000000      0x107 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_aranges
+                0x00000000       0x80 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_ranges  0x00000000       0x70 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_macro   0x00000000       0xcb ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_macro   0x00000000      0x868 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_macro   0x00000000       0x87 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_macro   0x00000000       0x44 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_macro   0x00000000       0xfd ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_macro   0x00000000       0x5e ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_macro   0x00000000      0x1df ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_macro   0x00000000      0x7b7 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_macro   0x00000000      0x3b5 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_macro   0x00000000       0x6a ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_macro   0x00000000       0x7c ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_macro   0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_line    0x00000000      0x4fd ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_str     0x00000000     0x7e7b ./PERIPHER/Sources/gw1ns2c_timer.o
+ .comment       0x00000000       0x6f ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_frame   0x00000000      0x218 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .ARM.attributes
+                0x00000000       0x33 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .text          0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .data          0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .bss           0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .text.UART_GetRxBufferFull
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .text.UART_GetTxBufferFull
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .text.UART_GetRxBufferOverrunStatus
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .text.UART_GetTxBufferOverrunStatus
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .text.UART_ClearRxBufferOverrunStatus
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .text.UART_ClearTxBufferOverrunStatus
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .text.UART_GetBaudDivider
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .text.UART_GetTxIRQStatus
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .text.UART_GetRxIRQStatus
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .text.UART_ClearTxIRQ
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .text.UART_ClearRxIRQ
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .text.UART_GetTxOverrunIRQStatus
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .text.UART_GetRxOverrunIRQStatus
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .text.UART_ClearTxOverrunIRQ
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .text.UART_ClearRxOverrunIRQ
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .text.UART_SetHSTM
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .text.UART_ClrHSTM
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .debug_macro   0x00000000      0x868 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .debug_macro   0x00000000       0x87 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .debug_macro   0x00000000       0x44 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .debug_macro   0x00000000       0xfd ./PERIPHER/Sources/gw1ns2c_uart.o
+ .debug_macro   0x00000000       0x5e ./PERIPHER/Sources/gw1ns2c_uart.o
+ .debug_macro   0x00000000      0x1df ./PERIPHER/Sources/gw1ns2c_uart.o
+ .debug_macro   0x00000000      0x7b7 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .debug_macro   0x00000000      0x3b5 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .debug_macro   0x00000000       0x6a ./PERIPHER/Sources/gw1ns2c_uart.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .debug_macro   0x00000000       0x76 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .text          0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .data          0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .bss           0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .text.WDOG_Init
+                0x00000000       0xdc ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .text.WDOG_RestartCounter
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .text.WDOG_GetCounterValue
+                0x00000000       0x14 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .text.WDOG_SetResetEnable
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .text.WDOG_GetResStatus
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .text.WDOG_SetIntEnable
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .text.WDOG_GetIntStatus
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .text.WDOG_ClrIntEnable
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .text.WDOG_GetRawIntStatus
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .text.WDOG_GetMaskIntStatus
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .text.WDOG_LockWriteAccess
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .text.WDOG_UnlockWriteAccess
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .text.WDOG_SetITModeEnable
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .text.WDOG_ClrITModeEnable
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .text.WDOG_GetITModeStatus
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .text.WDOG_SetITOP
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .text.WDOG_ClrITOP
+                0x00000000       0x28 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .text.WDOG_GetITOPResStatus
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .text.WDOG_GetITOPIntStatus
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_info    0x00000000      0x40f ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_abbrev  0x00000000      0x1b7 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_aranges
+                0x00000000       0xb0 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_ranges  0x00000000       0xa0 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_macro   0x00000000       0xd0 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_macro   0x00000000      0x868 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_macro   0x00000000       0x87 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_macro   0x00000000       0x44 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_macro   0x00000000       0xfd ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_macro   0x00000000       0x5e ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_macro   0x00000000      0x1df ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_macro   0x00000000      0x7b7 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_macro   0x00000000      0x3b5 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_macro   0x00000000       0x6a ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_macro   0x00000000       0x7c ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_macro   0x00000000       0x34 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_line    0x00000000      0x57f ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_str     0x00000000     0x8010 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .comment       0x00000000       0x6f ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_frame   0x00000000      0x290 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .ARM.attributes
+                0x00000000       0x33 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .group         0x00000000        0x8 ./CORE/core_cm3.o
+ .group         0x00000000        0x8 ./CORE/core_cm3.o
+ .group         0x00000000        0x8 ./CORE/core_cm3.o
+ .group         0x00000000        0x8 ./CORE/core_cm3.o
+ .group         0x00000000        0x8 ./CORE/core_cm3.o
+ .group         0x00000000        0x8 ./CORE/core_cm3.o
+ .group         0x00000000        0x8 ./CORE/core_cm3.o
+ .text          0x00000000        0x0 ./CORE/core_cm3.o
+ .data          0x00000000        0x0 ./CORE/core_cm3.o
+ .bss           0x00000000        0x0 ./CORE/core_cm3.o
+ .text.__get_PSP
+                0x00000000       0x10 ./CORE/core_cm3.o
+ .text.__set_PSP
+                0x00000000        0xc ./CORE/core_cm3.o
+ .text.__get_MSP
+                0x00000000       0x10 ./CORE/core_cm3.o
+ .text.__set_MSP
+                0x00000000        0xc ./CORE/core_cm3.o
+ .text.__get_BASEPRI
+                0x00000000       0x1c ./CORE/core_cm3.o
+ .text.__set_BASEPRI
+                0x00000000       0x18 ./CORE/core_cm3.o
+ .text.__get_PRIMASK
+                0x00000000       0x1c ./CORE/core_cm3.o
+ .text.__set_PRIMASK
+                0x00000000       0x18 ./CORE/core_cm3.o
+ .text.__get_FAULTMASK
+                0x00000000       0x1c ./CORE/core_cm3.o
+ .text.__set_FAULTMASK
+                0x00000000       0x18 ./CORE/core_cm3.o
+ .text.__get_CONTROL
+                0x00000000       0x1c ./CORE/core_cm3.o
+ .text.__set_CONTROL
+                0x00000000       0x18 ./CORE/core_cm3.o
+ .text.__REV    0x00000000       0x20 ./CORE/core_cm3.o
+ .text.__REV16  0x00000000       0x20 ./CORE/core_cm3.o
+ .text.__REVSH  0x00000000       0x20 ./CORE/core_cm3.o
+ .text.__RBIT   0x00000000       0x20 ./CORE/core_cm3.o
+ .text.__LDREXB
+                0x00000000       0x20 ./CORE/core_cm3.o
+ .text.__LDREXH
+                0x00000000       0x20 ./CORE/core_cm3.o
+ .text.__LDREXW
+                0x00000000       0x20 ./CORE/core_cm3.o
+ .text.__STREXB
+                0x00000000       0x28 ./CORE/core_cm3.o
+ .text.__STREXH
+                0x00000000       0x28 ./CORE/core_cm3.o
+ .text.__STREXW
+                0x00000000       0x24 ./CORE/core_cm3.o
+ .debug_info    0x00000000      0x52f ./CORE/core_cm3.o
+ .debug_abbrev  0x00000000       0xb1 ./CORE/core_cm3.o
+ .debug_aranges
+                0x00000000       0xc8 ./CORE/core_cm3.o
+ .debug_ranges  0x00000000       0xb8 ./CORE/core_cm3.o
+ .debug_macro   0x00000000       0x6f ./CORE/core_cm3.o
+ .debug_macro   0x00000000      0x868 ./CORE/core_cm3.o
+ .debug_macro   0x00000000       0x22 ./CORE/core_cm3.o
+ .debug_macro   0x00000000       0x87 ./CORE/core_cm3.o
+ .debug_macro   0x00000000       0x44 ./CORE/core_cm3.o
+ .debug_macro   0x00000000       0xfd ./CORE/core_cm3.o
+ .debug_macro   0x00000000       0x5e ./CORE/core_cm3.o
+ .debug_macro   0x00000000      0x1df ./CORE/core_cm3.o
+ .debug_line    0x00000000      0x4bc ./CORE/core_cm3.o
+ .debug_str     0x00000000     0x34e0 ./CORE/core_cm3.o
+ .comment       0x00000000       0x6f ./CORE/core_cm3.o
+ .debug_frame   0x00000000      0x320 ./CORE/core_cm3.o
+ .ARM.attributes
+                0x00000000       0x33 ./CORE/core_cm3.o
+ .text          0x00000000        0x0 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .data          0x00000000        0x0 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .bss           0x00000000        0x0 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.unlikely.g45028533
+                0x00000000       0x3a C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.unlikely.g17984362
+                0x00000000       0x82 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.bk_get_product_info
+                0x00000000       0x28 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.bk_stop  0x00000000       0x48 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.bk_get_key
+                0x00000000       0xac C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.bk_generate_random
+                0x00000000       0x3c C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.bk_get_private_key
+                0x00000000       0x6c C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.bk_wrap  0x00000000       0x52 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.bk_unwrap
+                0x00000000       0x50 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.bk_derive_public_key
+                0x00000000       0x60 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.bk_import_public_key
+                0x00000000       0xac C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.bk_ecdsa_verify
+                0x00000000      0x38e C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.bk_ecdh_shared_secret
+                0x00000000       0x82 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.bk_generate_cryptogram
+                0x00000000      0x2da C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.bk_process_cryptogram
+                0x00000000      0x328 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.bk_get_public_key_from_cryptogram
+                0x00000000       0x7c C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g21534651
+                0x00000000        0xc C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text          0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x00000000       0x50 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-init.o)
+ .debug_frame   0x00000000       0x2c c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-init.o)
+ .text          0x00000000       0xec c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memcpy.o)
+ .data          0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x00000000       0x1b c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o)
+ .text.startup.register_fini
+                0x00000000       0x14 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o)
+ .init_array.00000
+                0x00000000        0x4 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-atexit.o)
+ .text.atexit   0x00000000        0xc c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-atexit.o)
+ .debug_frame   0x00000000       0x20 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-fini.o)
+ .data          0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-fini.o)
+ .text.__libc_fini_array
+                0x00000000       0x28 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-fini.o)
+ .debug_frame   0x00000000       0x34 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-fini.o)
+ .text          0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__atexit.o)
+ .text.__register_exitproc
+                0x00000000       0xa4 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__atexit.o)
+ .debug_frame   0x00000000       0x34 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+ .data          0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+ .bss           0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+ .eh_frame      0x00000000        0x4 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+ .jcr           0x00000000        0x4 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+ .ARM.attributes
+                0x00000000       0x2d c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+ .text          0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+ .data          0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+ .bss           0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+ .init          0x00000000        0x8 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+ .fini          0x00000000        0x8 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+ .ARM.attributes
+                0x00000000       0x1d c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+ .text          0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x00000000         0x0001fc00         xr
+AC_FLASH         0x0001fc00         0x00000400         r
+RAM              0x20000000         0x00001c00         xrw
+PUF              0x20001c00         0x00000400         rw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+LOAD c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+LOAD c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+LOAD ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+LOAD ./USER/broadkey_no_enroll/src/iid_print.o
+LOAD ./USER/broadkey_no_enroll/src/iid_usart.o
+LOAD ./USER/gw1ns2c_it.o
+LOAD ./USER/led.o
+LOAD ./USER/main.o
+LOAD ./USER/printf.o
+LOAD ./USER/uart_test.o
+LOAD ./SYSTEM/system_gw1ns2c.o
+LOAD ./STARTUP/startup_gw1ns2c.o
+LOAD ./PERIPHER/Sources/gw1ns2c_adc.o
+LOAD ./PERIPHER/Sources/gw1ns2c_gpio.o
+LOAD ./PERIPHER/Sources/gw1ns2c_imonitor.o
+LOAD ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+LOAD ./PERIPHER/Sources/gw1ns2c_misc.o
+LOAD ./PERIPHER/Sources/gw1ns2c_spi.o
+LOAD ./PERIPHER/Sources/gw1ns2c_syscon.o
+LOAD ./PERIPHER/Sources/gw1ns2c_timer.o
+LOAD ./PERIPHER/Sources/gw1ns2c_uart.o
+LOAD ./PERIPHER/Sources/gw1ns2c_wdog.o
+LOAD ./CORE/core_cm3.o
+LOAD C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a
+START GROUP
+LOAD c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libgcc.a
+LOAD c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a
+LOAD c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libc.a
+END GROUP
+LOAD c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+LOAD c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+START GROUP
+LOAD c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libgcc.a
+LOAD c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libc.a
+LOAD c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libm.a
+LOAD c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libnosys.a
+END GROUP
+                0x20001c00                __bk_addr_puf = ORIGIN (PUF)
+                0x0001fc00                __bk_addr_ac = ORIGIN (AC_FLASH)
+
+.text           0x00000000     0x5b84
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xc0 ./STARTUP/startup_gw1ns2c.o
+                0x00000000                __isr_vector
+ *(.text*)
+ .text.broadkey_demo_app
+                0x000000c0       0xe8 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+                0x000000c0                broadkey_demo_app
+ .text.demo_init
+                0x000001a8       0x2c ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .text.demo_enroll_or_start
+                0x000001d4      0x15c ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .text.au_get_randomnum
+                0x00000330       0x7c ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .text.demo_create_private_and_public_key_codes
+                0x000003ac      0x100 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .text.demo_ecdsa_sign_and_verify
+                0x000004ac       0xb8 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .text.print_string
+                0x00000564       0x34 ./USER/broadkey_no_enroll/src/iid_print.o
+                0x00000564                print_string
+ .text.print_hexbyte
+                0x00000598       0x64 ./USER/broadkey_no_enroll/src/iid_print.o
+                0x00000598                print_hexbyte
+ .text.print_hexword
+                0x000005fc       0x40 ./USER/broadkey_no_enroll/src/iid_print.o
+                0x000005fc                print_hexword
+ .text.print_error
+                0x0000063c       0x3c ./USER/broadkey_no_enroll/src/iid_print.o
+                0x0000063c                print_error
+ .text.stringlen
+                0x00000678       0x30 ./USER/broadkey_no_enroll/src/iid_print.o
+ .text.iid_usart_setup
+                0x000006a8       0x40 ./USER/broadkey_no_enroll/src/iid_usart.o
+                0x000006a8                iid_usart_setup
+ .text.iid_usart_write
+                0x000006e8       0x48 ./USER/broadkey_no_enroll/src/iid_usart.o
+                0x000006e8                iid_usart_write
+ .text.iid_usart_read
+                0x00000730       0x34 ./USER/broadkey_no_enroll/src/iid_usart.o
+                0x00000730                iid_usart_read
+ .text.NMI_Handler
+                0x00000764        0xc ./USER/gw1ns2c_it.o
+                0x00000764                NMI_Handler
+ .text.HardFault_Handler
+                0x00000770        0x8 ./USER/gw1ns2c_it.o
+                0x00000770                HardFault_Handler
+ .text.MemManage_Handler
+                0x00000778        0x8 ./USER/gw1ns2c_it.o
+                0x00000778                MemManage_Handler
+ .text.BusFault_Handler
+                0x00000780        0x8 ./USER/gw1ns2c_it.o
+                0x00000780                BusFault_Handler
+ .text.UsageFault_Handler
+                0x00000788        0x8 ./USER/gw1ns2c_it.o
+                0x00000788                UsageFault_Handler
+ .text.SVC_Handler
+                0x00000790        0xc ./USER/gw1ns2c_it.o
+                0x00000790                SVC_Handler
+ .text.DebugMon_Handler
+                0x0000079c        0xc ./USER/gw1ns2c_it.o
+                0x0000079c                DebugMon_Handler
+ .text.PendSV_Handler
+                0x000007a8        0xc ./USER/gw1ns2c_it.o
+                0x000007a8                PendSV_Handler
+ .text.SysTick_Handler
+                0x000007b4        0xc ./USER/gw1ns2c_it.o
+                0x000007b4                SysTick_Handler
+ .text.USER_INT0_Handler
+                0x000007c0        0xc ./USER/gw1ns2c_it.o
+                0x000007c0                USER_INT0_Handler
+ .text.USER_INT1_Handler
+                0x000007cc        0xc ./USER/gw1ns2c_it.o
+                0x000007cc                USER_INT1_Handler
+ .text.UART0_Handler
+                0x000007d8        0xc ./USER/gw1ns2c_it.o
+                0x000007d8                UART0_Handler
+ .text.UART1_Handler
+                0x000007e4        0xc ./USER/gw1ns2c_it.o
+                0x000007e4                UART1_Handler
+ .text.TIMER1_Handler
+                0x000007f0        0xc ./USER/gw1ns2c_it.o
+                0x000007f0                TIMER1_Handler
+ .text.printf_str
+                0x000007fc       0x1c ./USER/main.o
+ .text.sw_edition_print
+                0x00000818       0x28 ./USER/main.o
+ .text.hex2char
+                0x00000840       0x2c ./USER/main.o
+                0x00000840                hex2char
+ .text.print_byte
+                0x0000086c       0x50 ./USER/main.o
+                0x0000086c                print_byte
+ .text.endian_big_little_u32
+                0x000008bc       0x44 ./USER/main.o
+                0x000008bc                endian_big_little_u32
+ .text.endian_big_little_u32_array
+                0x00000900       0x2c ./USER/main.o
+                0x00000900                endian_big_little_u32_array
+ .text.UartInit
+                0x0000092c       0x3c ./USER/main.o
+                0x0000092c                UartInit
+ .text.Delay_ms
+                0x00000968       0x2c ./USER/main.o
+                0x00000968                Delay_ms
+ .text.Delay    0x00000994       0x20 ./USER/main.o
+                0x00000994                Delay
+ .text.ReadFlashDetain
+                0x000009b4       0x3c ./USER/main.o
+                0x000009b4                ReadFlashDetain
+ .text.main     0x000009f0      0x170 ./USER/main.o
+                0x000009f0                main
+ .text.SystemInit
+                0x00000b60       0x40 ./SYSTEM/system_gw1ns2c.o
+                0x00000b60                SystemInit
+ .text          0x00000ba0       0x98 ./STARTUP/startup_gw1ns2c.o
+                0x00000ba0                Reset_Handler
+                0x00000bfc                Spare1_Handler
+                0x00000c00                Spare3_Handler
+                0x00000c02                Spare4_Handler
+                0x00000c04                PORT0_COMB_Handler
+                0x00000c06                Spare7_Handler
+                0x00000c08                TIMER0_Handler
+                0x00000c0c                Spare11_Handler
+                0x00000c0e                UARTOVF_Handler
+                0x00000c14                Spare15_Handler
+                0x00000c16                PORT0_0_Handler
+                0x00000c18                PORT0_1_Handler
+                0x00000c1a                PORT0_2_Handler
+                0x00000c1c                PORT0_3_Handler
+                0x00000c1e                PORT0_4_Handler
+                0x00000c20                PORT0_5_Handler
+                0x00000c22                PORT0_6_Handler
+                0x00000c24                PORT0_7_Handler
+                0x00000c26                PORT0_8_Handler
+                0x00000c28                PORT0_9_Handler
+                0x00000c2a                PORT0_10_Handler
+                0x00000c2c                PORT0_11_Handler
+                0x00000c2e                PORT0_12_Handler
+                0x00000c30                PORT0_13_Handler
+                0x00000c32                PORT0_14_Handler
+                0x00000c34                PORT0_15_Handler
+ .text.GPIO_Init
+                0x00000c38      0x190 ./PERIPHER/Sources/gw1ns2c_gpio.o
+                0x00000c38                GPIO_Init
+ .text.GPIO_SetBit
+                0x00000dc8       0x20 ./PERIPHER/Sources/gw1ns2c_gpio.o
+                0x00000dc8                GPIO_SetBit
+ .text.GPIO_ResetBit
+                0x00000de8       0x24 ./PERIPHER/Sources/gw1ns2c_gpio.o
+                0x00000de8                GPIO_ResetBit
+ .text.Lcd_Pin_Config
+                0x00000e0c       0x28 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+                0x00000e0c                Lcd_Pin_Config
+ .text.Lcd_Init
+                0x00000e34       0x28 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+                0x00000e34                Lcd_Init
+ .text.Lcd_Write_String
+                0x00000e5c       0x74 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+                0x00000e5c                Lcd_Write_String
+ .text.Delay_ms
+                0x00000ed0       0x2c ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .text.Set_GPIO
+                0x00000efc       0x28 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .text.Reset_GPIO
+                0x00000f24       0x28 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .text.Set_Lcd_Data
+                0x00000f4c       0x2c ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .text.Lcd_Write_Cmd
+                0x00000f78       0x54 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .text.Lcd_Write_Dat
+                0x00000fcc       0x54 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .text.Lcd_Disp_Char
+                0x00001020       0x40 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .text.UART_Init
+                0x00001060       0xd8 ./PERIPHER/Sources/gw1ns2c_uart.o
+                0x00001060                UART_Init
+ .text.UART_SendChar
+                0x00001138       0x2c ./PERIPHER/Sources/gw1ns2c_uart.o
+                0x00001138                UART_SendChar
+ .text.UART_SendString
+                0x00001164       0x3c ./PERIPHER/Sources/gw1ns2c_uart.o
+                0x00001164                UART_SendString
+ .text.UART_ReceiveChar
+                0x000011a0       0x28 ./PERIPHER/Sources/gw1ns2c_uart.o
+                0x000011a0                UART_ReceiveChar
+ .text.g80968244
+                0x000011c8       0x18 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g1154373
+                0x000011e0       0x5c C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ *fill*         0x0000123c        0x4 
+ .text.g3991162
+                0x00001240       0x60 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g99999601
+                0x000012a0       0x88 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g1961927
+                0x00001328       0x16 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g70669716
+                0x0000133e       0x1e C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g20584942
+                0x0000135c       0x14 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g22230596
+                0x00001370       0x3a C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g45780009
+                0x000013aa       0x18 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g37520470
+                0x000013c2       0x26 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g83026838
+                0x000013e8       0x32 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g22630872
+                0x0000141a       0x1c C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g23931415
+                0x00001436       0x32 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g48129106
+                0x00001468       0x24 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g27528946
+                0x0000148c      0x140 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g91980338
+                0x000015cc       0x20 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g90013895
+                0x000015ec        0x8 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g46419125
+                0x000015f4       0x7a C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g40394753
+                0x0000166e      0x156 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g62275694
+                0x000017c4       0x66 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ *fill*         0x0000182a        0x2 
+ .text.g85046771
+                0x0000182c       0x94 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g99286528
+                0x000018c0       0xd8 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g77815520
+                0x00001998      0x1ac C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g47034758
+                0x00001b44       0x3e C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g82037706
+                0x00001b82       0xca C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g91505166
+                0x00001c4c      0x118 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g27820193
+                0x00001d64       0x28 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g81740111
+                0x00001d8c       0x40 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g20371422
+                0x00001dcc       0x66 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g34889205
+                0x00001e32       0x8a C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g48810891
+                0x00001ebc       0x46 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g84132176
+                0x00001f02        0x4 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g23474200
+                0x00001f06       0x62 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g21084027
+                0x00001f68       0x24 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g35901407
+                0x00001f8c       0x56 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g73851895
+                0x00001fe2       0x10 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g17981737
+                0x00001ff2       0x34 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g61509644
+                0x00002026       0x16 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g99590937
+                0x0000203c       0x16 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ *fill*         0x00002052        0x2 
+ .text.g85953055
+                0x00002054      0x14c C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g88125843
+                0x000021a0       0x74 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g81723396
+                0x00002214       0xa4 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g17677319
+                0x000022b8       0x30 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g63565160
+                0x000022e8       0xec C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g75692764
+                0x000023d4       0x62 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ *fill*         0x00002436        0x2 
+ .text.g90955889
+                0x00002438      0x10c C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g22698287
+                0x00002544       0x1a C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g90441640
+                0x0000255e       0x44 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g52228050
+                0x000025a2       0x38 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g38792286
+                0x000025da      0x10c C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ *fill*         0x000026e6        0x2 
+ .text.g91743471.constprop.10
+                0x000026e8       0x30 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g47599220.constprop.13
+                0x00002718       0x76 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g33781322.constprop.12
+                0x0000278e       0x8c C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.unlikely.g95096613.constprop.11
+                0x0000281a       0x8c C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g79947041.constprop.16
+                0x000028a6       0xd6 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g72479390.constprop.23
+                0x0000297c       0x56 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g41355139
+                0x000029d2       0x38 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g53937178.constprop.24
+                0x00002a0a       0x5c C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g95718639
+                0x00002a66       0x5c C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ *fill*         0x00002ac2        0x2 
+ .text.g79364963.constprop.27
+                0x00002ac4       0x3c C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g73559242.constprop.29
+                0x00002b00       0x12 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g66622375
+                0x00002b12      0x1ac C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ *fill*         0x00002cbe        0x2 
+ .text.g85151213
+                0x00002cc0       0x64 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g46780599
+                0x00002d24      0x1d8 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g88629870
+                0x00002efc       0x12 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g66678147
+                0x00002f0e       0x10 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g15735182
+                0x00002f1e       0x18 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g48861220
+                0x00002f36       0xde C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g13970009
+                0x00003014       0x50 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g63049684.constprop.21
+                0x00003064       0xe0 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g85217758
+                0x00003144       0x3c C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g48383326
+                0x00003180      0x160 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g23847031
+                0x000032e0       0x14 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g92648846
+                0x000032f4       0xd8 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g69295847.constprop.28
+                0x000033cc       0x5e C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ *fill*         0x0000342a        0x2 
+ .text.g94815430
+                0x0000342c      0x1a8 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g25912794.part.5
+                0x000035d4       0x52 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ *fill*         0x00003626        0x2 
+ .text.g81219700
+                0x00003628      0x1cc C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g64888979
+                0x000037f4       0x50 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g41109727
+                0x00003844      0x2a8 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g50566111
+                0x00003aec       0x86 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g58085229
+                0x00003b72      0x22c C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g86809431
+                0x00003d9e       0x66 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .text.g84620930
+                0x00003e04      0x116 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ *fill*         0x00003f1a        0x2 
+ .text.bk_init  0x00003f1c      0x168 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+                0x00003f1c                bk_init
+ .text.bk_start
+                0x00004084      0x424 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+                0x00004084                bk_start
+ .text.bk_create_private_key
+                0x000044a8      0x134 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+                0x000044a8                bk_create_private_key
+ .text.bk_compute_public_from_private_key
+                0x000045dc       0x5c C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+                0x000045dc                bk_compute_public_from_private_key
+ .text.bk_export_public_key
+                0x00004638       0x80 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+                0x00004638                bk_export_public_key
+ .text.bk_ecdsa_sign
+                0x000046b8      0x2b0 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+                0x000046b8                bk_ecdsa_sign
+ .text.exit     0x00004968       0x20 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-exit.o)
+                0x00004968                exit
+ .text.memset   0x00004988       0x9c c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memset.o)
+                0x00004988                memset
+ .text.__call_exitprocs
+                0x00004a24       0xd8 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o)
+                0x00004a24                __call_exitprocs
+ .text._exit    0x00004afc        0x4 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)
+                0x00004afc                _exit
+ *(.init)
+ .init          0x00004b00        0x4 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+                0x00004b00                _init
+ *(.fini)
+ .fini          0x00004b04        0x4 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+                0x00004b04                _fini
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata        0x00004b08      0x7ec ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .rodata        0x000052f4       0x37 ./USER/broadkey_no_enroll/src/iid_print.o
+ *fill*         0x0000532b        0x1 
+ .rodata        0x0000532c      0x1a2 ./USER/main.o
+ .rodata.g13212466
+                0x000054ce       0x19 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g15252141
+                0x000054e7       0x1c C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ *fill*         0x00005503        0x1 
+ .rodata.g15559882
+                0x00005504       0x10 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g21479205
+                0x00005514        0x4 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g25732300
+                0x00005518       0xb0 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g26586247
+                0x000055c8       0x26 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g26701504
+                0x000055ee        0x7 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g3189282
+                0x000055f5       0x11 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g35443046
+                0x00005606       0x1d C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g35648307
+                0x00005623       0x20 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ *fill*         0x00005643        0x1 
+ .rodata.g35866487
+                0x00005644       0xb0 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g36456423
+                0x000056f4        0x7 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ *fill*         0x000056fb        0x1 
+ .rodata.g42550347
+                0x000056fc        0xc C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g48196175
+                0x00005708       0xb0 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g48521925
+                0x000057b8       0xc0 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g52285170
+                0x00005878       0x20 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g56510276
+                0x00005898        0x7 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g61657730
+                0x0000589f      0x100 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g62417863
+                0x0000599f        0x7 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g68998511
+                0x000059a6       0x18 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g74950919
+                0x000059be        0x7 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ *fill*         0x000059c5        0x3 
+ .rodata.g77374324
+                0x000059c8       0x26 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ *fill*         0x000059ee        0x2 
+ .rodata.g79003075
+                0x000059f0      0x100 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g8350120
+                0x00005af0       0x20 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g97364758
+                0x00005b10       0x40 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g99090930
+                0x00005b50        0xb C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g99189700
+                0x00005b5b       0x21 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.str1.4
+                0x00005b7c        0x4 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-impure.o)
+                                  0x2 (size before relaxing)
+ .rodata._global_impure_ptr
+                0x00005b80        0x4 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-impure.o)
+                0x00005b80                _global_impure_ptr
+ *(.eh_frame*)
+
+.glue_7         0x00005b84        0x0
+ .glue_7        0x00005b84        0x0 linker stubs
+
+.glue_7t        0x00005b84        0x0
+ .glue_7t       0x00005b84        0x0 linker stubs
+
+.vfp11_veneer   0x00005b84        0x0
+ .vfp11_veneer  0x00005b84        0x0 linker stubs
+
+.v4_bx          0x00005b84        0x0
+ .v4_bx         0x00005b84        0x0 linker stubs
+
+.iplt           0x00005b84        0x0
+ .iplt          0x00005b84        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+
+.rel.dyn        0x00005b84        0x0
+ .rel.iplt      0x00005b84        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x00005b84                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00005b84                __exidx_end = .
+                0x00005b84                __etext = .
+
+.data           0x20000000      0x438 load address 0x00005b84
+                0x20000000                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data.SystemCoreClock
+                0x20000000        0x4 ./SYSTEM/system_gw1ns2c.o
+                0x20000000                SystemCoreClock
+ .data.PCLK1    0x20000004        0x4 ./SYSTEM/system_gw1ns2c.o
+                0x20000004                PCLK1
+ .data.PCLK2    0x20000008        0x4 ./SYSTEM/system_gw1ns2c.o
+                0x20000008                PCLK2
+ .data.HCLK     0x2000000c        0x4 ./SYSTEM/system_gw1ns2c.o
+                0x2000000c                HCLK
+ .data.impure_data
+                0x20000010      0x428 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-impure.o)
+                0x20000438                . = ALIGN (0x4)
+                0x20000438                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x20000438                PROVIDE (__preinit_array_end, .)
+                0x20000438                . = ALIGN (0x4)
+                0x20000438                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+                0x20000438                PROVIDE (__init_array_end, .)
+                0x20000438                . = ALIGN (0x4)
+                0x20000438                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+                0x20000438                PROVIDE (__fini_array_end, .)
+                0x20000438                . = ALIGN (0x4)
+                0x20000438                __data_end__ = .
+
+.igot.plt       0x20000438        0x0 load address 0x00005fbc
+ .igot.plt      0x20000438        0x0 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+
+.bss            0x20000438      0x468 load address 0x00005fbc
+                0x20000438                . = ALIGN (0x4)
+                0x20000438                __bss_start__ = .
+ *(.bss*)
+ .bss.g80990635
+                0x20000438      0x468 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ *(COMMON)
+                0x200008a0                . = ALIGN (0x4)
+                0x200008a0                __bss_end__ = .
+
+.heap           0x200008a0      0x200
+                0x200008a0                __end__ = .
+                0x200008a0                end = __end__
+ *(.heap*)
+ .heap          0x200008a0      0x200 ./STARTUP/startup_gw1ns2c.o
+                0x200008a0                __HeapBase
+                0x20000aa0                __HeapLimit = .
+
+.stack_dummy    0x200008a0      0x400
+ *(.stack*)
+ .stack         0x200008a0      0x400 ./STARTUP/startup_gw1ns2c.o
+                0x20001c00                __StackTop = (ORIGIN (RAM) + LENGTH (RAM))
+                0x20001800                __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
+                0x20001c00                PROVIDE (__stack, __StackTop)
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+OUTPUT(broadkey_authentication.elf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x29
+ .ARM.attributes
+                0x00000000       0x1d c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+ .ARM.attributes
+                0x0000001d       0x33 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .ARM.attributes
+                0x00000050       0x33 ./USER/broadkey_no_enroll/src/iid_print.o
+ .ARM.attributes
+                0x00000083       0x33 ./USER/broadkey_no_enroll/src/iid_usart.o
+ .ARM.attributes
+                0x000000b6       0x33 ./USER/gw1ns2c_it.o
+ .ARM.attributes
+                0x000000e9       0x33 ./USER/main.o
+ .ARM.attributes
+                0x0000011c       0x33 ./SYSTEM/system_gw1ns2c.o
+ .ARM.attributes
+                0x0000014f       0x1b ./STARTUP/startup_gw1ns2c.o
+ .ARM.attributes
+                0x0000016a       0x33 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .ARM.attributes
+                0x0000019d       0x33 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .ARM.attributes
+                0x000001d0       0x33 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .ARM.attributes
+                0x00000203       0x33 C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+ .ARM.attributes
+                0x00000236       0x2d c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000263       0x2d c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000290       0x2d c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000002bd       0x2d c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x000002ea       0x2d c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)
+
+.comment        0x00000000       0xed
+ .comment       0x00000000       0x6e ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+                                 0x6f (size before relaxing)
+ .comment       0x0000006e       0x6f ./USER/broadkey_no_enroll/src/iid_print.o
+ .comment       0x0000006e       0x6f ./USER/broadkey_no_enroll/src/iid_usart.o
+ .comment       0x0000006e       0x6f ./USER/gw1ns2c_it.o
+ .comment       0x0000006e       0x6f ./USER/main.o
+ .comment       0x0000006e       0x6f ./SYSTEM/system_gw1ns2c.o
+ .comment       0x0000006e       0x6f ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .comment       0x0000006e       0x6f ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .comment       0x0000006e       0x6f ./PERIPHER/Sources/gw1ns2c_uart.o
+ .comment       0x0000006e       0x7f C:\broadkey_auth\USER\broadkey_no_enroll\lib\libiidbroadkey_pro_256_noenroll_m3.a(iidbroadkey_merged.c.obj)
+                                 0x80 (size before relaxing)
+
+.debug_info     0x00000000     0x2a71
+ .debug_info    0x00000000      0xb29 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .debug_info    0x00000b29      0x2d7 ./USER/broadkey_no_enroll/src/iid_print.o
+ .debug_info    0x00000e00      0x2f9 ./USER/broadkey_no_enroll/src/iid_usart.o
+ .debug_info    0x000010f9      0x176 ./USER/gw1ns2c_it.o
+ .debug_info    0x0000126f      0x59f ./USER/main.o
+ .debug_info    0x0000180e      0x104 ./SYSTEM/system_gw1ns2c.o
+ .debug_info    0x00001912       0x5c ./STARTUP/startup_gw1ns2c.o
+ .debug_info    0x0000196e      0x6ab ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_info    0x00002019      0x45e ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_info    0x00002477      0x5fa ./PERIPHER/Sources/gw1ns2c_uart.o
+
+.debug_abbrev   0x00000000      0xb0f
+ .debug_abbrev  0x00000000      0x192 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .debug_abbrev  0x00000192       0xfa ./USER/broadkey_no_enroll/src/iid_print.o
+ .debug_abbrev  0x0000028c      0x100 ./USER/broadkey_no_enroll/src/iid_usart.o
+ .debug_abbrev  0x0000038c       0x5d ./USER/gw1ns2c_it.o
+ .debug_abbrev  0x000003e9      0x1df ./USER/main.o
+ .debug_abbrev  0x000005c8       0x7b ./SYSTEM/system_gw1ns2c.o
+ .debug_abbrev  0x00000643       0x14 ./STARTUP/startup_gw1ns2c.o
+ .debug_abbrev  0x00000657      0x18f ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_abbrev  0x000007e6      0x185 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_abbrev  0x0000096b      0x1a4 ./PERIPHER/Sources/gw1ns2c_uart.o
+
+.debug_aranges  0x00000000      0x448
+ .debug_aranges
+                0x00000000       0x98 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .debug_aranges
+                0x00000098       0x60 ./USER/broadkey_no_enroll/src/iid_print.o
+ .debug_aranges
+                0x000000f8       0x30 ./USER/broadkey_no_enroll/src/iid_usart.o
+ .debug_aranges
+                0x00000128       0x88 ./USER/gw1ns2c_it.o
+ .debug_aranges
+                0x000001b0       0x70 ./USER/main.o
+ .debug_aranges
+                0x00000220       0x28 ./SYSTEM/system_gw1ns2c.o
+ .debug_aranges
+                0x00000248       0x20 ./STARTUP/startup_gw1ns2c.o
+ .debug_aranges
+                0x00000268       0xb8 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_aranges
+                0x00000320       0x68 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_aranges
+                0x00000388       0xc0 ./PERIPHER/Sources/gw1ns2c_uart.o
+
+.debug_ranges   0x00000000      0x398
+ .debug_ranges  0x00000000       0x88 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .debug_ranges  0x00000088       0x50 ./USER/broadkey_no_enroll/src/iid_print.o
+ .debug_ranges  0x000000d8       0x20 ./USER/broadkey_no_enroll/src/iid_usart.o
+ .debug_ranges  0x000000f8       0x78 ./USER/gw1ns2c_it.o
+ .debug_ranges  0x00000170       0x60 ./USER/main.o
+ .debug_ranges  0x000001d0       0x18 ./SYSTEM/system_gw1ns2c.o
+ .debug_ranges  0x000001e8       0xa8 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_ranges  0x00000290       0x58 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_ranges  0x000002e8       0xb0 ./PERIPHER/Sources/gw1ns2c_uart.o
+
+.debug_macro    0x00000000     0x307f
+ .debug_macro   0x00000000       0xd2 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .debug_macro   0x000000d2      0x868 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .debug_macro   0x0000093a       0x1c ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .debug_macro   0x00000956       0x22 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .debug_macro   0x00000978       0x87 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .debug_macro   0x000009ff       0x44 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .debug_macro   0x00000a43       0xfd ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .debug_macro   0x00000b40       0x5e ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .debug_macro   0x00000b9e      0x1df ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .debug_macro   0x00000d7d       0x22 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .debug_macro   0x00000d9f       0x19 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .debug_macro   0x00000db8       0x46 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .debug_macro   0x00000dfe       0x7d ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .debug_macro   0x00000e7b       0xa6 ./USER/broadkey_no_enroll/src/iid_print.o
+ .debug_macro   0x00000f21       0xfa ./USER/broadkey_no_enroll/src/iid_usart.o
+ .debug_macro   0x0000101b       0x22 ./USER/broadkey_no_enroll/src/iid_usart.o
+ .debug_macro   0x0000103d       0x22 ./USER/broadkey_no_enroll/src/iid_usart.o
+ .debug_macro   0x0000105f      0x7b7 ./USER/broadkey_no_enroll/src/iid_usart.o
+ .debug_macro   0x00001816      0x3b5 ./USER/broadkey_no_enroll/src/iid_usart.o
+ .debug_macro   0x00001bcb       0x6a ./USER/broadkey_no_enroll/src/iid_usart.o
+ .debug_macro   0x00001c35       0x7c ./USER/broadkey_no_enroll/src/iid_usart.o
+ .debug_macro   0x00001cb1       0x22 ./USER/broadkey_no_enroll/src/iid_usart.o
+ .debug_macro   0x00001cd3       0xcb ./USER/gw1ns2c_it.o
+ .debug_macro   0x00001d9e      0x2b3 ./USER/main.o
+ .debug_macro   0x00002051       0x52 ./USER/main.o
+ .debug_macro   0x000020a3       0x35 ./USER/main.o
+ .debug_macro   0x000020d8       0x9c ./USER/main.o
+ .debug_macro   0x00002174       0x16 ./USER/main.o
+ .debug_macro   0x0000218a       0x97 ./USER/main.o
+ .debug_macro   0x00002221      0x30d ./USER/main.o
+ .debug_macro   0x0000252e       0xfd ./USER/main.o
+ .debug_macro   0x0000262b       0x10 ./USER/main.o
+ .debug_macro   0x0000263b       0x52 ./USER/main.o
+ .debug_macro   0x0000268d       0x1f ./USER/main.o
+ .debug_macro   0x000026ac       0x43 ./USER/main.o
+ .debug_macro   0x000026ef       0x20 ./USER/main.o
+ .debug_macro   0x0000270f      0x187 ./USER/main.o
+ .debug_macro   0x00002896       0x10 ./USER/main.o
+ .debug_macro   0x000028a6       0x1c ./USER/main.o
+ .debug_macro   0x000028c2       0x52 ./USER/main.o
+ .debug_macro   0x00002914       0x40 ./USER/main.o
+ .debug_macro   0x00002954       0x10 ./USER/main.o
+ .debug_macro   0x00002964       0x40 ./USER/main.o
+ .debug_macro   0x000029a4       0xd7 ./USER/main.o
+ .debug_macro   0x00002a7b       0x16 ./USER/main.o
+ .debug_macro   0x00002a91      0x189 ./USER/main.o
+ .debug_macro   0x00002c1a       0x16 ./USER/main.o
+ .debug_macro   0x00002c30       0x35 ./USER/main.o
+ .debug_macro   0x00002c65       0x16 ./USER/main.o
+ .debug_macro   0x00002c7b       0x29 ./USER/main.o
+ .debug_macro   0x00002ca4       0x1c ./USER/main.o
+ .debug_macro   0x00002cc0       0xcd ./SYSTEM/system_gw1ns2c.o
+ .debug_macro   0x00002d8d       0xcb ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_macro   0x00002e58       0x76 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_macro   0x00002ece       0xd0 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_macro   0x00002f9e       0x16 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_macro   0x00002fb4       0xcb ./PERIPHER/Sources/gw1ns2c_uart.o
+
+.debug_line     0x00000000     0x3360
+ .debug_line    0x00000000      0x844 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .debug_line    0x00000844      0x4cb ./USER/broadkey_no_enroll/src/iid_print.o
+ .debug_line    0x00000d0f      0x4c8 ./USER/broadkey_no_enroll/src/iid_usart.o
+ .debug_line    0x000011d7      0x4ff ./USER/gw1ns2c_it.o
+ .debug_line    0x000016d6      0x734 ./USER/main.o
+ .debug_line    0x00001e0a      0x430 ./SYSTEM/system_gw1ns2c.o
+ .debug_line    0x0000223a       0x97 ./STARTUP/startup_gw1ns2c.o
+ .debug_line    0x000022d1      0x5be ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_line    0x0000288f      0x51e ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_line    0x00002dad      0x5b3 ./PERIPHER/Sources/gw1ns2c_uart.o
+
+.debug_str      0x00000000     0xcfed
+ .debug_str     0x00000000     0x3ee5 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+                               0x411e (size before relaxing)
+ .debug_str     0x00003ee5       0xd7 ./USER/broadkey_no_enroll/src/iid_print.o
+                               0x358b (size before relaxing)
+ .debug_str     0x00003fbc     0x4ae5 ./USER/broadkey_no_enroll/src/iid_usart.o
+                               0x7f59 (size before relaxing)
+ .debug_str     0x00008aa1      0x104 ./USER/gw1ns2c_it.o
+                               0x7d74 (size before relaxing)
+ .debug_str     0x00008ba5     0x3e73 ./USER/main.o
+                               0xbe12 (size before relaxing)
+ .debug_str     0x0000ca18       0x8d ./SYSTEM/system_gw1ns2c.o
+                               0x7d11 (size before relaxing)
+ .debug_str     0x0000caa5      0x269 ./PERIPHER/Sources/gw1ns2c_gpio.o
+                               0x7fb1 (size before relaxing)
+ .debug_str     0x0000cd0e       0xb8 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+                               0x7f39 (size before relaxing)
+ .debug_str     0x0000cdc6      0x227 ./PERIPHER/Sources/gw1ns2c_uart.o
+                               0x7fd8 (size before relaxing)
+
+.debug_frame    0x00000000     0x10cc
+ .debug_frame   0x00000000      0x280 ./USER/broadkey_no_enroll/src/broadkey_demo_app.o
+ .debug_frame   0x00000280      0x158 ./USER/broadkey_no_enroll/src/iid_print.o
+ .debug_frame   0x000003d8       0x80 ./USER/broadkey_no_enroll/src/iid_usart.o
+ .debug_frame   0x00000458      0x1b0 ./USER/gw1ns2c_it.o
+ .debug_frame   0x00000608      0x1a4 ./USER/main.o
+ .debug_frame   0x000007ac       0x50 ./SYSTEM/system_gw1ns2c.o
+ .debug_frame   0x000007fc      0x330 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_frame   0x00000b2c      0x180 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_frame   0x00000cac      0x354 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .debug_frame   0x00001000       0x28 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-exit.o)
+ .debug_frame   0x00001028       0x34 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memset.o)
+ .debug_frame   0x0000105c       0x50 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x000010ac       0x20 c:/users/liang/downloads/gowin prokect/gowin prokect/eclipse_tools_181108a/eclipse_tools/tools/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)

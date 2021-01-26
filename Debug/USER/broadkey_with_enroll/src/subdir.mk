@@ -1,0 +1,30 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+# Add inputs and outputs from these tool invocations to the build variables 
+C_SRCS += \
+../USER/broadkey_with_enroll/src/broadkey_demo_app.c \
+../USER/broadkey_with_enroll/src/iid_print.c \
+../USER/broadkey_with_enroll/src/iid_usart.c 
+
+OBJS += \
+./USER/broadkey_with_enroll/src/broadkey_demo_app.o \
+./USER/broadkey_with_enroll/src/iid_print.o \
+./USER/broadkey_with_enroll/src/iid_usart.o 
+
+C_DEPS += \
+./USER/broadkey_with_enroll/src/broadkey_demo_app.d \
+./USER/broadkey_with_enroll/src/iid_print.d \
+./USER/broadkey_with_enroll/src/iid_usart.d 
+
+
+# Each subdirectory must supply rules for building sources it contributes
+USER/broadkey_with_enroll/src/%.o: ../USER/broadkey_with_enroll/src/%.c
+	@echo 'Building file: $<'
+	@echo 'Invoking: Cross ARM C Compiler'
+	arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -DUSE_STDPERIPH_DRIVER -I"D:\temp\broadkey_demo\broadkey_with_enroll\CORE" -I"D:\temp\broadkey_demo\broadkey_with_enroll\PERIPHER\Includes" -I"D:\temp\broadkey_demo\broadkey_with_enroll\SYSTEM" -I"D:\temp\broadkey_demo\broadkey_with_enroll\USER" -I"D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\src" -I"D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\include" -std=gnu11 -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -c -o "$@" "$<"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+

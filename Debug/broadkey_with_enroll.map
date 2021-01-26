@@ -1,0 +1,2026 @@
+Archive member included to satisfy reference by file (symbol)
+
+D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+                              ./USER/broadkey_with_enroll/src/broadkey_demo_app.o (bk_get_product_info)
+d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-exit.o)
+                              d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o (exit)
+d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-impure.o)
+                              d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-exit.o) (_global_impure_ptr)
+d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-init.o)
+                              d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o (__libc_init_array)
+d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memcmp.o)
+                              D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj) (memcmp)
+d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memcpy.o)
+                              ./USER/broadkey_with_enroll/src/broadkey_demo_app.o (memcpy)
+d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memset.o)
+                              d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o (memset)
+d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o)
+                              d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-exit.o) (__call_exitprocs)
+d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-atexit.o)
+                              d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o) (atexit)
+d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-fini.o)
+                              d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o) (__libc_fini_array)
+d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__atexit.o)
+                              d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-atexit.o) (__register_exitproc)
+d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)
+                              d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-exit.o) (_exit)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+ .data          0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+ .bss           0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+ .text          0x00000000       0x5c d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .data          0x00000000        0x4 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .bss           0x00000000       0x1c d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .init_array    0x00000000        0x4 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .fini_array    0x00000000        0x4 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .eh_frame      0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .jcr           0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .ARM.attributes
+                0x00000000       0x2d d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .text          0x00000000       0x74 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .data          0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .bss           0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.extab     0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.exidx     0x00000000        0x8 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.attributes
+                0x00000000       0x1b d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .group         0x00000000        0x8 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .group         0x00000000        0x8 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .group         0x00000000        0x8 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .group         0x00000000        0x8 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .group         0x00000000        0x8 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .group         0x00000000        0x8 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .group         0x00000000        0x8 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .group         0x00000000        0x8 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .group         0x00000000        0x8 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .group         0x00000000        0x8 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .group         0x00000000        0x8 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .group         0x00000000        0x8 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .text          0x00000000        0x0 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .data          0x00000000        0x0 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .bss           0x00000000        0x0 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .group         0x00000000        0x8 ./USER/broadkey_with_enroll/src/iid_print.o
+ .group         0x00000000        0x8 ./USER/broadkey_with_enroll/src/iid_print.o
+ .group         0x00000000        0x8 ./USER/broadkey_with_enroll/src/iid_print.o
+ .group         0x00000000        0x8 ./USER/broadkey_with_enroll/src/iid_print.o
+ .group         0x00000000        0x8 ./USER/broadkey_with_enroll/src/iid_print.o
+ .group         0x00000000        0x8 ./USER/broadkey_with_enroll/src/iid_print.o
+ .group         0x00000000        0x8 ./USER/broadkey_with_enroll/src/iid_print.o
+ .group         0x00000000        0x8 ./USER/broadkey_with_enroll/src/iid_print.o
+ .group         0x00000000        0x8 ./USER/broadkey_with_enroll/src/iid_print.o
+ .group         0x00000000        0x8 ./USER/broadkey_with_enroll/src/iid_print.o
+ .text          0x00000000        0x0 ./USER/broadkey_with_enroll/src/iid_print.o
+ .data          0x00000000        0x0 ./USER/broadkey_with_enroll/src/iid_print.o
+ .bss           0x00000000        0x0 ./USER/broadkey_with_enroll/src/iid_print.o
+ .text.print_hexhalfword
+                0x00000000       0x2c ./USER/broadkey_with_enroll/src/iid_print.o
+ .debug_macro   0x00000000      0x868 ./USER/broadkey_with_enroll/src/iid_print.o
+ .debug_macro   0x00000000       0x1c ./USER/broadkey_with_enroll/src/iid_print.o
+ .debug_macro   0x00000000       0x22 ./USER/broadkey_with_enroll/src/iid_print.o
+ .debug_macro   0x00000000       0x87 ./USER/broadkey_with_enroll/src/iid_print.o
+ .debug_macro   0x00000000       0x44 ./USER/broadkey_with_enroll/src/iid_print.o
+ .debug_macro   0x00000000       0xfd ./USER/broadkey_with_enroll/src/iid_print.o
+ .debug_macro   0x00000000       0x5e ./USER/broadkey_with_enroll/src/iid_print.o
+ .debug_macro   0x00000000      0x1df ./USER/broadkey_with_enroll/src/iid_print.o
+ .debug_macro   0x00000000       0x22 ./USER/broadkey_with_enroll/src/iid_print.o
+ .debug_macro   0x00000000       0x19 ./USER/broadkey_with_enroll/src/iid_print.o
+ .group         0x00000000        0x8 ./USER/broadkey_with_enroll/src/iid_usart.o
+ .group         0x00000000        0x8 ./USER/broadkey_with_enroll/src/iid_usart.o
+ .group         0x00000000        0x8 ./USER/broadkey_with_enroll/src/iid_usart.o
+ .group         0x00000000        0x8 ./USER/broadkey_with_enroll/src/iid_usart.o
+ .group         0x00000000        0x8 ./USER/broadkey_with_enroll/src/iid_usart.o
+ .group         0x00000000        0x8 ./USER/broadkey_with_enroll/src/iid_usart.o
+ .group         0x00000000        0x8 ./USER/broadkey_with_enroll/src/iid_usart.o
+ .group         0x00000000        0x8 ./USER/broadkey_with_enroll/src/iid_usart.o
+ .group         0x00000000        0x8 ./USER/broadkey_with_enroll/src/iid_usart.o
+ .group         0x00000000        0x8 ./USER/broadkey_with_enroll/src/iid_usart.o
+ .group         0x00000000        0x8 ./USER/broadkey_with_enroll/src/iid_usart.o
+ .group         0x00000000        0x8 ./USER/broadkey_with_enroll/src/iid_usart.o
+ .group         0x00000000        0x8 ./USER/broadkey_with_enroll/src/iid_usart.o
+ .group         0x00000000        0x8 ./USER/broadkey_with_enroll/src/iid_usart.o
+ .group         0x00000000        0x8 ./USER/broadkey_with_enroll/src/iid_usart.o
+ .group         0x00000000        0x8 ./USER/broadkey_with_enroll/src/iid_usart.o
+ .text          0x00000000        0x0 ./USER/broadkey_with_enroll/src/iid_usart.o
+ .data          0x00000000        0x0 ./USER/broadkey_with_enroll/src/iid_usart.o
+ .bss           0x00000000        0x0 ./USER/broadkey_with_enroll/src/iid_usart.o
+ .debug_macro   0x00000000      0x868 ./USER/broadkey_with_enroll/src/iid_usart.o
+ .debug_macro   0x00000000       0x22 ./USER/broadkey_with_enroll/src/iid_usart.o
+ .debug_macro   0x00000000       0x87 ./USER/broadkey_with_enroll/src/iid_usart.o
+ .debug_macro   0x00000000       0x44 ./USER/broadkey_with_enroll/src/iid_usart.o
+ .debug_macro   0x00000000       0xfd ./USER/broadkey_with_enroll/src/iid_usart.o
+ .debug_macro   0x00000000       0x5e ./USER/broadkey_with_enroll/src/iid_usart.o
+ .debug_macro   0x00000000      0x1df ./USER/broadkey_with_enroll/src/iid_usart.o
+ .debug_macro   0x00000000       0x1c ./USER/broadkey_with_enroll/src/iid_usart.o
+ .debug_macro   0x00000000       0x22 ./USER/broadkey_with_enroll/src/iid_usart.o
+ .debug_macro   0x00000000       0x19 ./USER/broadkey_with_enroll/src/iid_usart.o
+ .group         0x00000000        0x8 ./USER/gw1ns2c_it.o
+ .group         0x00000000        0x8 ./USER/gw1ns2c_it.o
+ .group         0x00000000        0x8 ./USER/gw1ns2c_it.o
+ .group         0x00000000        0x8 ./USER/gw1ns2c_it.o
+ .group         0x00000000        0x8 ./USER/gw1ns2c_it.o
+ .group         0x00000000        0x8 ./USER/gw1ns2c_it.o
+ .group         0x00000000        0x8 ./USER/gw1ns2c_it.o
+ .group         0x00000000        0x8 ./USER/gw1ns2c_it.o
+ .group         0x00000000        0x8 ./USER/gw1ns2c_it.o
+ .group         0x00000000        0x8 ./USER/gw1ns2c_it.o
+ .group         0x00000000        0x8 ./USER/gw1ns2c_it.o
+ .group         0x00000000        0x8 ./USER/gw1ns2c_it.o
+ .group         0x00000000        0x8 ./USER/gw1ns2c_it.o
+ .text          0x00000000        0x0 ./USER/gw1ns2c_it.o
+ .data          0x00000000        0x0 ./USER/gw1ns2c_it.o
+ .bss           0x00000000        0x0 ./USER/gw1ns2c_it.o
+ .debug_macro   0x00000000      0x868 ./USER/gw1ns2c_it.o
+ .debug_macro   0x00000000       0x22 ./USER/gw1ns2c_it.o
+ .debug_macro   0x00000000       0x22 ./USER/gw1ns2c_it.o
+ .debug_macro   0x00000000       0x22 ./USER/gw1ns2c_it.o
+ .debug_macro   0x00000000       0x87 ./USER/gw1ns2c_it.o
+ .debug_macro   0x00000000       0x44 ./USER/gw1ns2c_it.o
+ .debug_macro   0x00000000       0xfd ./USER/gw1ns2c_it.o
+ .debug_macro   0x00000000       0x5e ./USER/gw1ns2c_it.o
+ .debug_macro   0x00000000      0x1df ./USER/gw1ns2c_it.o
+ .debug_macro   0x00000000      0x7b7 ./USER/gw1ns2c_it.o
+ .debug_macro   0x00000000      0x399 ./USER/gw1ns2c_it.o
+ .debug_macro   0x00000000       0x76 ./USER/gw1ns2c_it.o
+ .debug_macro   0x00000000       0x22 ./USER/gw1ns2c_it.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .group         0x00000000        0x8 ./USER/main.o
+ .text          0x00000000        0x0 ./USER/main.o
+ .data          0x00000000        0x0 ./USER/main.o
+ .bss           0x00000000        0x0 ./USER/main.o
+ .data.sram_ac  0x00000000        0x4 ./USER/main.o
+ .text.endian_big_little_u32
+                0x00000000       0x44 ./USER/main.o
+ .text.endian_big_little_u32_array
+                0x00000000       0x2c ./USER/main.o
+ .debug_macro   0x00000000      0x868 ./USER/main.o
+ .debug_macro   0x00000000       0x22 ./USER/main.o
+ .debug_macro   0x00000000       0x22 ./USER/main.o
+ .debug_macro   0x00000000       0x22 ./USER/main.o
+ .debug_macro   0x00000000       0x87 ./USER/main.o
+ .debug_macro   0x00000000       0x44 ./USER/main.o
+ .debug_macro   0x00000000       0xfd ./USER/main.o
+ .debug_macro   0x00000000       0x5e ./USER/main.o
+ .debug_macro   0x00000000      0x1df ./USER/main.o
+ .debug_macro   0x00000000      0x7b7 ./USER/main.o
+ .debug_macro   0x00000000      0x399 ./USER/main.o
+ .debug_macro   0x00000000       0x76 ./USER/main.o
+ .debug_macro   0x00000000       0x22 ./USER/main.o
+ .debug_macro   0x00000000       0x1c ./USER/main.o
+ .debug_macro   0x00000000       0x22 ./USER/main.o
+ .debug_macro   0x00000000       0x19 ./USER/main.o
+ .group         0x00000000        0x8 ./SYSTEM/system_gw1ns2c.o
+ .group         0x00000000        0x8 ./SYSTEM/system_gw1ns2c.o
+ .group         0x00000000        0x8 ./SYSTEM/system_gw1ns2c.o
+ .group         0x00000000        0x8 ./SYSTEM/system_gw1ns2c.o
+ .group         0x00000000        0x8 ./SYSTEM/system_gw1ns2c.o
+ .group         0x00000000        0x8 ./SYSTEM/system_gw1ns2c.o
+ .group         0x00000000        0x8 ./SYSTEM/system_gw1ns2c.o
+ .group         0x00000000        0x8 ./SYSTEM/system_gw1ns2c.o
+ .group         0x00000000        0x8 ./SYSTEM/system_gw1ns2c.o
+ .group         0x00000000        0x8 ./SYSTEM/system_gw1ns2c.o
+ .group         0x00000000        0x8 ./SYSTEM/system_gw1ns2c.o
+ .group         0x00000000        0x8 ./SYSTEM/system_gw1ns2c.o
+ .group         0x00000000        0x8 ./SYSTEM/system_gw1ns2c.o
+ .text          0x00000000        0x0 ./SYSTEM/system_gw1ns2c.o
+ .data          0x00000000        0x0 ./SYSTEM/system_gw1ns2c.o
+ .bss           0x00000000        0x0 ./SYSTEM/system_gw1ns2c.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0x40 ./SYSTEM/system_gw1ns2c.o
+ .debug_macro   0x00000000      0x868 ./SYSTEM/system_gw1ns2c.o
+ .debug_macro   0x00000000       0x22 ./SYSTEM/system_gw1ns2c.o
+ .debug_macro   0x00000000       0x22 ./SYSTEM/system_gw1ns2c.o
+ .debug_macro   0x00000000       0x22 ./SYSTEM/system_gw1ns2c.o
+ .debug_macro   0x00000000       0x87 ./SYSTEM/system_gw1ns2c.o
+ .debug_macro   0x00000000       0x44 ./SYSTEM/system_gw1ns2c.o
+ .debug_macro   0x00000000       0xfd ./SYSTEM/system_gw1ns2c.o
+ .debug_macro   0x00000000       0x5e ./SYSTEM/system_gw1ns2c.o
+ .debug_macro   0x00000000      0x1df ./SYSTEM/system_gw1ns2c.o
+ .debug_macro   0x00000000      0x7b7 ./SYSTEM/system_gw1ns2c.o
+ .debug_macro   0x00000000      0x399 ./SYSTEM/system_gw1ns2c.o
+ .debug_macro   0x00000000       0x76 ./SYSTEM/system_gw1ns2c.o
+ .debug_macro   0x00000000       0x22 ./SYSTEM/system_gw1ns2c.o
+ .data          0x00000000        0x0 ./STARTUP/startup_gw1ns2c.o
+ .bss           0x00000000        0x0 ./STARTUP/startup_gw1ns2c.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .text          0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .data          0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .bss           0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .text.ADC_Init
+                0x00000000       0x88 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .text.ADC_SetMode
+                0x00000000       0x40 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .text.ADC_GetMode
+                0x00000000       0x24 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .text.ADC_SetPowerStatus
+                0x00000000       0x70 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .text.ADC_GetPowerStatus
+                0x00000000       0x24 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .text.ADC_SetChannel
+                0x00000000       0x30 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .text.ADC_GetChannel
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .text.ADC_GetEocStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_adc.o
+ .text.ADC_GetSocStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_adc.o
+ .text.ADC_ReadData
+                0x00000000       0x14 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_info    0x00000000      0x255 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_abbrev  0x00000000      0x10b ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_aranges
+                0x00000000       0x68 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_ranges  0x00000000       0x58 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_macro   0x00000000       0xc7 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_macro   0x00000000      0x868 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_macro   0x00000000       0x87 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_macro   0x00000000       0x44 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_macro   0x00000000       0xfd ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_macro   0x00000000       0x5e ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_macro   0x00000000      0x1df ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_macro   0x00000000      0x7b7 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_macro   0x00000000      0x399 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_macro   0x00000000       0x76 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_macro   0x00000000       0x58 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_line    0x00000000      0x418 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_str     0x00000000     0x7ccd ./PERIPHER/Sources/gw1ns2c_adc.o
+ .comment       0x00000000       0x6f ./PERIPHER/Sources/gw1ns2c_adc.o
+ .debug_frame   0x00000000      0x170 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .ARM.attributes
+                0x00000000       0x33 ./PERIPHER/Sources/gw1ns2c_adc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .text          0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .data          0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .bss           0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .text.GPIO_Init
+                0x00000000      0x190 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .text.GPIO_SetOutEnable
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .text.GPIO_ClrOutEnable
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .text.GPIO_SetBit
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .text.GPIO_ResetBit
+                0x00000000       0x24 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .text.GPIO_WriteBits
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .text.GPIO_ReadBits
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .text.GPIO_GetOutEnable
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .text.GPIO_SetAltFunc
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .text.GPIO_ClrAltFunc
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .text.GPIO_GetAltFunc
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .text.GPIO_IntClear
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .text.GPIO_GetIntStatus
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .text.GPIO_SetIntEnable
+                0x00000000       0x24 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .text.GPIO_ClrIntEnable
+                0x00000000       0x24 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .text.GPIO_SetIntHighLevel
+                0x00000000       0x38 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .text.GPIO_SetIntRisingEdge
+                0x00000000       0x38 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .text.GPIO_SetIntLowLevel
+                0x00000000       0x38 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .text.GPIO_SetIntFallingEdge
+                0x00000000       0x38 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .text.GPIO_MaskedWrite
+                0x00000000       0x38 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_info    0x00000000      0x6ab ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_abbrev  0x00000000      0x18f ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_aranges
+                0x00000000       0xb8 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_ranges  0x00000000       0xa8 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_macro   0x00000000       0xc7 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_macro   0x00000000      0x868 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_macro   0x00000000       0x87 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_macro   0x00000000       0x44 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_macro   0x00000000       0xfd ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_macro   0x00000000       0x5e ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_macro   0x00000000      0x1df ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_macro   0x00000000      0x7b7 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_macro   0x00000000      0x399 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_macro   0x00000000       0x76 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_macro   0x00000000       0x6a ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_line    0x00000000      0x506 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_str     0x00000000     0x7f37 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .comment       0x00000000       0x6f ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .debug_frame   0x00000000      0x330 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .ARM.attributes
+                0x00000000       0x33 ./PERIPHER/Sources/gw1ns2c_gpio.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text          0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .data          0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .bss           0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_Init
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_Clr
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetGPIO0Pin0IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetGPIO0Pin0IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrGPIO0Pin0IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetGPIO0Pin1IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetGPIO0Pin1IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrGPIO0Pin1IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetGPIO0Pin2IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetGPIO0Pin2IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrGPIO0Pin2IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetGPIO0Pin3IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetGPIO0Pin3IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrGPIO0Pin3IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetGPIO0Pin4IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetGPIO0Pin4IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrGPIO0Pin4IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetGPIO0Pin5IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetGPIO0Pin5IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrGPIO0Pin5IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetGPIO0Pin6IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetGPIO0Pin6IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrGPIO0Pin6IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetGPIO0Pin7IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetGPIO0Pin7IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrGPIO0Pin7IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetGPIO0Pin8IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetGPIO0Pin8IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrGPIO0Pin8IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetGPIO0Pin9IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetGPIO0Pin9IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrGPIO0Pin9IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetGPIO0Pin10IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetGPIO0Pin10IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrGPIO0Pin10IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetGPIO0Pin11IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetGPIO0Pin11IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrGPIO0Pin11IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetGPIO0Pin12IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetGPIO0Pin12IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrGPIO0Pin12IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetGPIO0Pin13IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetGPIO0Pin13IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrGPIO0Pin13IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetGPIO0Pin14IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetGPIO0Pin14IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrGPIO0Pin14IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetGPIO0Pin15IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetGPIO0Pin15IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrGPIO0Pin15IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetTIMER0IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetTIMER0IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrTIMER0IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetTIMER1IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetTIMER1IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrTIMER1IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetUART0IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetUART0IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrUART0IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetUART1IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetUART1IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrUART1IntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_SetWDOGIntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_GetWDOGIntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .text.IMONITOR_ClrWDOGIntStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_info    0x00000000      0x5be ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_abbrev  0x00000000      0x100 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_aranges
+                0x00000000      0x220 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_ranges  0x00000000      0x210 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_macro   0x00000000       0xc7 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_macro   0x00000000      0x868 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_macro   0x00000000       0x87 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_macro   0x00000000       0x44 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_macro   0x00000000       0xfd ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_macro   0x00000000       0x5e ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_macro   0x00000000      0x1df ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_macro   0x00000000      0x7b7 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_macro   0x00000000      0x399 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_macro   0x00000000       0x76 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_macro   0x00000000       0x82 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_line    0x00000000      0x7e3 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_str     0x00000000     0x846d ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .comment       0x00000000       0x6f ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .debug_frame   0x00000000      0x830 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .ARM.attributes
+                0x00000000       0x33 ./PERIPHER/Sources/gw1ns2c_imonitor.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .text          0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .data          0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .bss           0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .text.Lcd_Pin_Config
+                0x00000000       0x28 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .text.Lcd_Init
+                0x00000000       0x28 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .text.Lcd_Write_String
+                0x00000000       0x74 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .text.Delay_ms
+                0x00000000       0x2c ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .text.Set_GPIO
+                0x00000000       0x28 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .text.Reset_GPIO
+                0x00000000       0x28 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .text.Set_Lcd_Data
+                0x00000000       0x2c ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .text.Lcd_Write_Cmd
+                0x00000000       0x54 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .text.Lcd_Write_Dat
+                0x00000000       0x54 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .text.Lcd_Disp_Char
+                0x00000000       0x40 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_info    0x00000000      0x45e ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_abbrev  0x00000000      0x185 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_aranges
+                0x00000000       0x68 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_ranges  0x00000000       0x58 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_macro   0x00000000       0xd0 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_macro   0x00000000      0x868 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_macro   0x00000000       0x87 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_macro   0x00000000       0x44 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_macro   0x00000000       0xfd ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_macro   0x00000000       0x5e ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_macro   0x00000000      0x1df ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_macro   0x00000000      0x7b7 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_macro   0x00000000      0x399 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_macro   0x00000000       0x76 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_macro   0x00000000       0x16 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_macro   0x00000000       0x70 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_line    0x00000000      0x466 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_str     0x00000000     0x7ebf ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .comment       0x00000000       0x6f ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .debug_frame   0x00000000      0x180 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .ARM.attributes
+                0x00000000       0x33 ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .text          0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .data          0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .bss           0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .text.NVIC_PriorityGroupConfig
+                0x00000000       0x24 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .text.NVIC_Init
+                0x00000000       0xc4 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .text.NVIC_SetVectorTable
+                0x00000000       0x2c ./PERIPHER/Sources/gw1ns2c_misc.o
+ .text.SysTick_CLKSourceConfig
+                0x00000000       0x24 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_info    0x00000000      0x4c6 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_abbrev  0x00000000      0x15b ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_aranges
+                0x00000000       0x38 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_ranges  0x00000000       0x28 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_macro   0x00000000       0xcd ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_macro   0x00000000      0x868 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_macro   0x00000000       0x87 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_macro   0x00000000       0x44 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_macro   0x00000000       0xfd ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_macro   0x00000000       0x5e ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_macro   0x00000000      0x1df ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_macro   0x00000000      0x7b7 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_macro   0x00000000      0x399 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_macro   0x00000000       0x76 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_macro   0x00000000       0x2e ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_line    0x00000000      0x3a2 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_str     0x00000000     0x7d32 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .comment       0x00000000       0x6f ./PERIPHER/Sources/gw1ns2c_misc.o
+ .debug_frame   0x00000000       0xb0 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .ARM.attributes
+                0x00000000       0x33 ./PERIPHER/Sources/gw1ns2c_misc.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text          0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .data          0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .bss           0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_Init
+                0x00000000       0x68 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_SetDirection
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_ClrDirection
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_GetDirection
+                0x00000000       0x24 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_SetPhase
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_ClrPhase
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_GetPhase
+                0x00000000       0x24 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_SetPolarity
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_ClrPolarity
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_GetPolarity
+                0x00000000       0x24 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_SetClkSel
+                0x00000000       0x34 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_GetClkSel
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_GetToeStatus
+                0x00000000       0x24 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_GetRoeStatus
+                0x00000000       0x24 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_GetTmtStatus
+                0x00000000       0x24 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_GetTrdyStatus
+                0x00000000       0x24 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_GetRrdyStatus
+                0x00000000       0x24 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_GetErrStatus
+                0x00000000       0x24 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_ClrToeStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_ClrRoeStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_ClrErrStatus
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_WriteData
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .text.SPI_ReadData
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_info    0x00000000      0x3a8 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_abbrev  0x00000000      0x18d ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_aranges
+                0x00000000       0xd0 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_ranges  0x00000000       0xc0 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_macro   0x00000000       0xc7 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_macro   0x00000000      0x868 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_macro   0x00000000       0x87 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_macro   0x00000000       0x44 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_macro   0x00000000       0xfd ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_macro   0x00000000       0x5e ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_macro   0x00000000      0x1df ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_macro   0x00000000      0x7b7 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_macro   0x00000000      0x399 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_macro   0x00000000       0x76 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_macro   0x00000000       0x5e ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_line    0x00000000      0x4f0 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_str     0x00000000     0x7dc0 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .comment       0x00000000       0x6f ./PERIPHER/Sources/gw1ns2c_spi.o
+ .debug_frame   0x00000000      0x308 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .ARM.attributes
+                0x00000000       0x33 ./PERIPHER/Sources/gw1ns2c_spi.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .text          0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .data          0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .bss           0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .text.SYSCON_Init
+                0x00000000       0x28 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .text.SYSCON_GetRemap
+                0x00000000       0x14 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .text.SYSCON_GetPmuctrlEnable
+                0x00000000       0x14 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .text.SYSCON_GetResetopLockuprst
+                0x00000000       0x14 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .text.SYSCON_GetRstinfoSysresetreq
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .text.SYSCON_GetRstinfoWdogresetreq
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .text.SYSCON_GetRstinfoLockreset
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_info    0x00000000      0x1ad ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_abbrev  0x00000000       0xce ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_aranges
+                0x00000000       0x50 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_ranges  0x00000000       0x40 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_macro   0x00000000       0xc7 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_macro   0x00000000      0x868 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_macro   0x00000000       0x87 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_macro   0x00000000       0x44 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_macro   0x00000000       0xfd ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_macro   0x00000000       0x5e ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_macro   0x00000000      0x1df ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_macro   0x00000000      0x7b7 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_macro   0x00000000      0x399 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_macro   0x00000000       0x76 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_macro   0x00000000       0x16 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_line    0x00000000      0x3ce ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_str     0x00000000     0x7b38 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .comment       0x00000000       0x6f ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .debug_frame   0x00000000       0xf0 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .ARM.attributes
+                0x00000000       0x33 ./PERIPHER/Sources/gw1ns2c_syscon.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .text          0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .data          0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .bss           0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .text.TIMER_Init
+                0x00000000       0x9c ./PERIPHER/Sources/gw1ns2c_timer.o
+ .text.TIMER_StartTimer
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .text.TIMER_StopTimer
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .text.TIMER_GetIRQStatus
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .text.TIMER_ClearIRQ
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .text.TIMER_GetReload
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .text.TIMER_SetReload
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_timer.o
+ .text.TIMER_GetValue
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .text.TIMER_SetValue
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_timer.o
+ .text.TIMER_EnableIRQ
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .text.TIMER_DisableIRQ
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .text.TIMER_SelExtEnable
+                0x00000000       0x28 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .text.TIMER_SelExtClock
+                0x00000000       0x28 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_info    0x00000000      0x3d0 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_abbrev  0x00000000      0x107 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_aranges
+                0x00000000       0x80 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_ranges  0x00000000       0x70 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_macro   0x00000000       0xc2 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_macro   0x00000000      0x868 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_macro   0x00000000       0x87 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_macro   0x00000000       0x44 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_macro   0x00000000       0xfd ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_macro   0x00000000       0x5e ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_macro   0x00000000      0x1df ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_macro   0x00000000      0x7b7 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_macro   0x00000000      0x399 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_macro   0x00000000       0x76 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_macro   0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_line    0x00000000      0x433 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_str     0x00000000     0x7ba5 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .comment       0x00000000       0x6f ./PERIPHER/Sources/gw1ns2c_timer.o
+ .debug_frame   0x00000000      0x218 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .ARM.attributes
+                0x00000000       0x33 ./PERIPHER/Sources/gw1ns2c_timer.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .text          0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .data          0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .bss           0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .text.UART_GetRxBufferFull
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .text.UART_GetTxBufferFull
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .text.UART_GetRxBufferOverrunStatus
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .text.UART_GetTxBufferOverrunStatus
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .text.UART_ClearRxBufferOverrunStatus
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .text.UART_ClearTxBufferOverrunStatus
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .text.UART_GetBaudDivider
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .text.UART_GetTxIRQStatus
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .text.UART_GetRxIRQStatus
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .text.UART_ClearTxIRQ
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .text.UART_ClearRxIRQ
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .text.UART_GetTxOverrunIRQStatus
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .text.UART_GetRxOverrunIRQStatus
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .text.UART_ClearTxOverrunIRQ
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .text.UART_ClearRxOverrunIRQ
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .text.UART_SetHSTM
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .text.UART_ClrHSTM
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .debug_macro   0x00000000      0x868 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .debug_macro   0x00000000       0x87 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .debug_macro   0x00000000       0x44 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .debug_macro   0x00000000       0xfd ./PERIPHER/Sources/gw1ns2c_uart.o
+ .debug_macro   0x00000000       0x5e ./PERIPHER/Sources/gw1ns2c_uart.o
+ .debug_macro   0x00000000      0x1df ./PERIPHER/Sources/gw1ns2c_uart.o
+ .debug_macro   0x00000000      0x7b7 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .debug_macro   0x00000000      0x399 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .debug_macro   0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_uart.o
+ .debug_macro   0x00000000       0x76 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .group         0x00000000        0x8 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .text          0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .data          0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .bss           0x00000000        0x0 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .text.WDOG_Init
+                0x00000000       0xdc ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .text.WDOG_RestartCounter
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .text.WDOG_GetCounterValue
+                0x00000000       0x14 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .text.WDOG_SetResetEnable
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .text.WDOG_GetResStatus
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .text.WDOG_SetIntEnable
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .text.WDOG_GetIntStatus
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .text.WDOG_ClrIntEnable
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .text.WDOG_GetRawIntStatus
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .text.WDOG_GetMaskIntStatus
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .text.WDOG_LockWriteAccess
+                0x00000000       0x18 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .text.WDOG_UnlockWriteAccess
+                0x00000000       0x1c ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .text.WDOG_SetITModeEnable
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .text.WDOG_ClrITModeEnable
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .text.WDOG_GetITModeStatus
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .text.WDOG_SetITOP
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .text.WDOG_ClrITOP
+                0x00000000       0x28 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .text.WDOG_GetITOPResStatus
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .text.WDOG_GetITOPIntStatus
+                0x00000000       0x20 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_info    0x00000000      0x40f ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_abbrev  0x00000000      0x1b7 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_aranges
+                0x00000000       0xb0 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_ranges  0x00000000       0xa0 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_macro   0x00000000       0xc7 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_macro   0x00000000      0x868 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_macro   0x00000000       0x87 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_macro   0x00000000       0x44 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_macro   0x00000000       0xfd ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_macro   0x00000000       0x5e ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_macro   0x00000000      0x1df ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_macro   0x00000000      0x7b7 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_macro   0x00000000      0x399 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_macro   0x00000000       0x76 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_macro   0x00000000       0x22 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_macro   0x00000000       0x34 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_line    0x00000000      0x4b5 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_str     0x00000000     0x7d3a ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .comment       0x00000000       0x6f ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .debug_frame   0x00000000      0x290 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .ARM.attributes
+                0x00000000       0x33 ./PERIPHER/Sources/gw1ns2c_wdog.o
+ .group         0x00000000        0x8 ./CORE/core_cm3.o
+ .group         0x00000000        0x8 ./CORE/core_cm3.o
+ .group         0x00000000        0x8 ./CORE/core_cm3.o
+ .group         0x00000000        0x8 ./CORE/core_cm3.o
+ .group         0x00000000        0x8 ./CORE/core_cm3.o
+ .group         0x00000000        0x8 ./CORE/core_cm3.o
+ .group         0x00000000        0x8 ./CORE/core_cm3.o
+ .text          0x00000000        0x0 ./CORE/core_cm3.o
+ .data          0x00000000        0x0 ./CORE/core_cm3.o
+ .bss           0x00000000        0x0 ./CORE/core_cm3.o
+ .text.__get_PSP
+                0x00000000       0x10 ./CORE/core_cm3.o
+ .text.__set_PSP
+                0x00000000        0xc ./CORE/core_cm3.o
+ .text.__get_MSP
+                0x00000000       0x10 ./CORE/core_cm3.o
+ .text.__set_MSP
+                0x00000000        0xc ./CORE/core_cm3.o
+ .text.__get_BASEPRI
+                0x00000000       0x1c ./CORE/core_cm3.o
+ .text.__set_BASEPRI
+                0x00000000       0x18 ./CORE/core_cm3.o
+ .text.__get_PRIMASK
+                0x00000000       0x1c ./CORE/core_cm3.o
+ .text.__set_PRIMASK
+                0x00000000       0x18 ./CORE/core_cm3.o
+ .text.__get_FAULTMASK
+                0x00000000       0x1c ./CORE/core_cm3.o
+ .text.__set_FAULTMASK
+                0x00000000       0x18 ./CORE/core_cm3.o
+ .text.__get_CONTROL
+                0x00000000       0x1c ./CORE/core_cm3.o
+ .text.__set_CONTROL
+                0x00000000       0x18 ./CORE/core_cm3.o
+ .text.__REV    0x00000000       0x20 ./CORE/core_cm3.o
+ .text.__REV16  0x00000000       0x20 ./CORE/core_cm3.o
+ .text.__REVSH  0x00000000       0x20 ./CORE/core_cm3.o
+ .text.__RBIT   0x00000000       0x20 ./CORE/core_cm3.o
+ .text.__LDREXB
+                0x00000000       0x20 ./CORE/core_cm3.o
+ .text.__LDREXH
+                0x00000000       0x20 ./CORE/core_cm3.o
+ .text.__LDREXW
+                0x00000000       0x20 ./CORE/core_cm3.o
+ .text.__STREXB
+                0x00000000       0x28 ./CORE/core_cm3.o
+ .text.__STREXH
+                0x00000000       0x28 ./CORE/core_cm3.o
+ .text.__STREXW
+                0x00000000       0x24 ./CORE/core_cm3.o
+ .debug_info    0x00000000      0x52f ./CORE/core_cm3.o
+ .debug_abbrev  0x00000000       0xb1 ./CORE/core_cm3.o
+ .debug_aranges
+                0x00000000       0xc8 ./CORE/core_cm3.o
+ .debug_ranges  0x00000000       0xb8 ./CORE/core_cm3.o
+ .debug_macro   0x00000000       0x6f ./CORE/core_cm3.o
+ .debug_macro   0x00000000      0x868 ./CORE/core_cm3.o
+ .debug_macro   0x00000000       0x22 ./CORE/core_cm3.o
+ .debug_macro   0x00000000       0x87 ./CORE/core_cm3.o
+ .debug_macro   0x00000000       0x44 ./CORE/core_cm3.o
+ .debug_macro   0x00000000       0xfd ./CORE/core_cm3.o
+ .debug_macro   0x00000000       0x5e ./CORE/core_cm3.o
+ .debug_macro   0x00000000      0x1df ./CORE/core_cm3.o
+ .debug_line    0x00000000      0x39c ./CORE/core_cm3.o
+ .debug_str     0x00000000     0x34fa ./CORE/core_cm3.o
+ .comment       0x00000000       0x6f ./CORE/core_cm3.o
+ .debug_frame   0x00000000      0x320 ./CORE/core_cm3.o
+ .ARM.attributes
+                0x00000000       0x33 ./CORE/core_cm3.o
+ .text          0x00000000        0x0 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .data          0x00000000        0x0 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .bss           0x00000000        0x0 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.bk_stop  0x00000000       0x50 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text          0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-exit.o)
+ .data          0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-exit.o)
+ .text          0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-impure.o)
+ .data          0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-impure.o)
+ .text          0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-init.o)
+ .data          0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-init.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x00000000       0x50 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-init.o)
+ .debug_frame   0x00000000       0x2c d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000       0x2d d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-init.o)
+ .text          0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memcmp.o)
+ .data          0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memcmp.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memcmp.o)
+ .data          0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memset.o)
+ .data          0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memset.o)
+ .text          0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o)
+ .text.startup.register_fini
+                0x00000000       0x14 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o)
+ .init_array.00000
+                0x00000000        0x4 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-atexit.o)
+ .text.atexit   0x00000000        0xc d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-atexit.o)
+ .debug_frame   0x00000000       0x20 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000000       0x2d d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-fini.o)
+ .data          0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-fini.o)
+ .text.__libc_fini_array
+                0x00000000       0x28 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-fini.o)
+ .debug_frame   0x00000000       0x34 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000000       0x2d d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-fini.o)
+ .text          0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__atexit.o)
+ .text.__register_exitproc
+                0x00000000       0xa4 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__atexit.o)
+ .debug_frame   0x00000000       0x34 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000000       0x2d d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+ .data          0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+ .bss           0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+ .eh_frame      0x00000000        0x4 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+ .jcr           0x00000000        0x4 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+ .ARM.attributes
+                0x00000000       0x2d d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+ .text          0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+ .data          0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+ .bss           0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+ .init          0x00000000        0x8 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+ .fini          0x00000000        0x8 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+ .ARM.attributes
+                0x00000000       0x1d d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+ .text          0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x00000000         0x0001fc00         xr
+AC_FLASH         0x0001fc00         0x00000400         r
+RAM              0x20000000         0x00001c00         xrw
+PUF              0x20001c00         0x00000400         rw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+LOAD d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+LOAD d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+LOAD ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+LOAD ./USER/broadkey_with_enroll/src/iid_print.o
+LOAD ./USER/broadkey_with_enroll/src/iid_usart.o
+LOAD ./USER/gw1ns2c_it.o
+LOAD ./USER/main.o
+LOAD ./SYSTEM/system_gw1ns2c.o
+LOAD ./STARTUP/startup_gw1ns2c.o
+LOAD ./PERIPHER/Sources/gw1ns2c_adc.o
+LOAD ./PERIPHER/Sources/gw1ns2c_gpio.o
+LOAD ./PERIPHER/Sources/gw1ns2c_imonitor.o
+LOAD ./PERIPHER/Sources/gw1ns2c_lcd1602.o
+LOAD ./PERIPHER/Sources/gw1ns2c_misc.o
+LOAD ./PERIPHER/Sources/gw1ns2c_spi.o
+LOAD ./PERIPHER/Sources/gw1ns2c_syscon.o
+LOAD ./PERIPHER/Sources/gw1ns2c_timer.o
+LOAD ./PERIPHER/Sources/gw1ns2c_uart.o
+LOAD ./PERIPHER/Sources/gw1ns2c_wdog.o
+LOAD ./CORE/core_cm3.o
+LOAD D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a
+START GROUP
+LOAD d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libgcc.a
+LOAD d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a
+LOAD d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libc.a
+END GROUP
+LOAD d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+LOAD d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+START GROUP
+LOAD d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libgcc.a
+LOAD d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libc.a
+LOAD d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libm.a
+LOAD d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libnosys.a
+END GROUP
+                0x20001c00                __puf = ORIGIN (PUF)
+                0x0001fc00                __ac = ORIGIN (AC_FLASH)
+
+.text           0x00000000     0x78f4
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xc0 ./STARTUP/startup_gw1ns2c.o
+                0x00000000                __isr_vector
+ *(.text*)
+ .text.demo_version
+                0x000000c0       0xa4 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .text.demo_init
+                0x00000164       0x4c ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .text.broadkey_demo_app
+                0x000001b0      0x1b4 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+                0x000001b0                broadkey_demo_app
+ .text.demo_enroll_or_start
+                0x00000364      0x184 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .text.demo_get_random_bytes
+                0x000004e8       0x88 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .text.demo_get_symmetric_key
+                0x00000570       0x84 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .text.demo_get_private_key
+                0x000005f4       0x94 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .text.demo_wrap_and_unwrap
+                0x00000688      0x17c ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .text.demo_derive_public_key_from_private_key
+                0x00000804      0x120 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .text.demo_create_private_and_public_key_codes
+                0x00000924      0x100 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .text.demo_import_and_export_public_key
+                0x00000a24      0x184 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .text.demo_ecdsa_sign_and_verify
+                0x00000ba8      0x128 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .text.demo_ecdh_shared_secret
+                0x00000cd0       0x90 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .text.demo_generate_and_process_cryptogram
+                0x00000d60      0x384 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .text.read_ac  0x000010e4       0xc0 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .text.print_string
+                0x000011a4       0x34 ./USER/broadkey_with_enroll/src/iid_print.o
+                0x000011a4                print_string
+ .text.print_hexbyte
+                0x000011d8       0x64 ./USER/broadkey_with_enroll/src/iid_print.o
+                0x000011d8                print_hexbyte
+ .text.print_hexword
+                0x0000123c       0x40 ./USER/broadkey_with_enroll/src/iid_print.o
+                0x0000123c                print_hexword
+ .text.print_num
+                0x0000127c       0x38 ./USER/broadkey_with_enroll/src/iid_print.o
+                0x0000127c                print_num
+ .text.print_error
+                0x000012b4       0x3c ./USER/broadkey_with_enroll/src/iid_print.o
+                0x000012b4                print_error
+ .text.stringlen
+                0x000012f0       0x30 ./USER/broadkey_with_enroll/src/iid_print.o
+ .text.reverse  0x00001320       0x5c ./USER/broadkey_with_enroll/src/iid_print.o
+ .text.itoa     0x0000137c       0x90 ./USER/broadkey_with_enroll/src/iid_print.o
+ .text.iid_usart_setup
+                0x0000140c       0x40 ./USER/broadkey_with_enroll/src/iid_usart.o
+                0x0000140c                iid_usart_setup
+ .text.iid_usart_write
+                0x0000144c       0x48 ./USER/broadkey_with_enroll/src/iid_usart.o
+                0x0000144c                iid_usart_write
+ .text.iid_usart_read
+                0x00001494       0x34 ./USER/broadkey_with_enroll/src/iid_usart.o
+                0x00001494                iid_usart_read
+ .text.NMI_Handler
+                0x000014c8        0xc ./USER/gw1ns2c_it.o
+                0x000014c8                NMI_Handler
+ .text.HardFault_Handler
+                0x000014d4        0x8 ./USER/gw1ns2c_it.o
+                0x000014d4                HardFault_Handler
+ .text.MemManage_Handler
+                0x000014dc        0x8 ./USER/gw1ns2c_it.o
+                0x000014dc                MemManage_Handler
+ .text.BusFault_Handler
+                0x000014e4        0x8 ./USER/gw1ns2c_it.o
+                0x000014e4                BusFault_Handler
+ .text.UsageFault_Handler
+                0x000014ec        0x8 ./USER/gw1ns2c_it.o
+                0x000014ec                UsageFault_Handler
+ .text.SVC_Handler
+                0x000014f4        0xc ./USER/gw1ns2c_it.o
+                0x000014f4                SVC_Handler
+ .text.DebugMon_Handler
+                0x00001500        0xc ./USER/gw1ns2c_it.o
+                0x00001500                DebugMon_Handler
+ .text.PendSV_Handler
+                0x0000150c        0xc ./USER/gw1ns2c_it.o
+                0x0000150c                PendSV_Handler
+ .text.SysTick_Handler
+                0x00001518        0xc ./USER/gw1ns2c_it.o
+                0x00001518                SysTick_Handler
+ .text.USER_INT0_Handler
+                0x00001524        0xc ./USER/gw1ns2c_it.o
+                0x00001524                USER_INT0_Handler
+ .text.USER_INT1_Handler
+                0x00001530        0xc ./USER/gw1ns2c_it.o
+                0x00001530                USER_INT1_Handler
+ .text.UART0_Handler
+                0x0000153c        0xc ./USER/gw1ns2c_it.o
+                0x0000153c                UART0_Handler
+ .text.UART1_Handler
+                0x00001548        0xc ./USER/gw1ns2c_it.o
+                0x00001548                UART1_Handler
+ .text.TIMER1_Handler
+                0x00001554        0xc ./USER/gw1ns2c_it.o
+                0x00001554                TIMER1_Handler
+ .text.printf_str
+                0x00001560       0x1c ./USER/main.o
+ .text.sw_edition_print
+                0x0000157c       0x28 ./USER/main.o
+ .text.hex2char
+                0x000015a4       0x2c ./USER/main.o
+                0x000015a4                hex2char
+ .text.print_byte
+                0x000015d0       0x50 ./USER/main.o
+                0x000015d0                print_byte
+ .text.UartInit
+                0x00001620       0x3c ./USER/main.o
+                0x00001620                UartInit
+ .text.Delay_ms
+                0x0000165c       0x2c ./USER/main.o
+                0x0000165c                Delay_ms
+ .text.ReadFlashDetain
+                0x00001688       0x3c ./USER/main.o
+                0x00001688                ReadFlashDetain
+ .text.main     0x000016c4       0xf4 ./USER/main.o
+                0x000016c4                main
+ .text.SystemInit
+                0x000017b8       0x40 ./SYSTEM/system_gw1ns2c.o
+                0x000017b8                SystemInit
+ .text          0x000017f8       0x98 ./STARTUP/startup_gw1ns2c.o
+                0x000017f8                Reset_Handler
+                0x00001854                Spare1_Handler
+                0x00001858                Spare3_Handler
+                0x0000185a                Spare4_Handler
+                0x0000185c                PORT0_COMB_Handler
+                0x0000185e                Spare7_Handler
+                0x00001860                TIMER0_Handler
+                0x00001864                Spare11_Handler
+                0x00001866                UARTOVF_Handler
+                0x0000186c                Spare15_Handler
+                0x0000186e                PORT0_0_Handler
+                0x00001870                PORT0_1_Handler
+                0x00001872                PORT0_2_Handler
+                0x00001874                PORT0_3_Handler
+                0x00001876                PORT0_4_Handler
+                0x00001878                PORT0_5_Handler
+                0x0000187a                PORT0_6_Handler
+                0x0000187c                PORT0_7_Handler
+                0x0000187e                PORT0_8_Handler
+                0x00001880                PORT0_9_Handler
+                0x00001882                PORT0_10_Handler
+                0x00001884                PORT0_11_Handler
+                0x00001886                PORT0_12_Handler
+                0x00001888                PORT0_13_Handler
+                0x0000188a                PORT0_14_Handler
+                0x0000188c                PORT0_15_Handler
+ .text.UART_Init
+                0x00001890       0xd8 ./PERIPHER/Sources/gw1ns2c_uart.o
+                0x00001890                UART_Init
+ .text.UART_SendChar
+                0x00001968       0x2c ./PERIPHER/Sources/gw1ns2c_uart.o
+                0x00001968                UART_SendChar
+ .text.UART_SendString
+                0x00001994       0x3c ./PERIPHER/Sources/gw1ns2c_uart.o
+                0x00001994                UART_SendString
+ .text.UART_ReceiveChar
+                0x000019d0       0x28 ./PERIPHER/Sources/gw1ns2c_uart.o
+                0x000019d0                UART_ReceiveChar
+ .text.g38742906
+                0x000019f8       0x18 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g63360492
+                0x00001a10       0x5c D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ *fill*         0x00001a6c        0x4 
+ .text.g81864002
+                0x00001a70       0x60 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g84352347
+                0x00001ad0       0x88 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g91833568
+                0x00001b58       0x16 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g46867928
+                0x00001b6e       0x1e D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g88610515
+                0x00001b8c       0x14 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g97139031
+                0x00001ba0       0x3c D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g80148655
+                0x00001bdc       0x18 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g1140957
+                0x00001bf4       0x26 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g58046820
+                0x00001c1a       0x32 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g45728942
+                0x00001c4c       0x1a D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g6262493
+                0x00001c66       0x32 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g29879534
+                0x00001c98       0x24 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g76761366
+                0x00001cbc      0x14c D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g13287862
+                0x00001e08       0x20 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g82065323
+                0x00001e28        0x8 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g99818802
+                0x00001e30       0x7a D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g66392913
+                0x00001eaa      0x156 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g50718399
+                0x00002000       0x66 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ *fill*         0x00002066        0x2 
+ .text.g24404325
+                0x00002068       0x90 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g74865578
+                0x000020f8       0xd8 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g46705863
+                0x000021d0      0x1b0 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g1611510
+                0x00002380       0x3e D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g25311193
+                0x000023be       0xca D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g37820766
+                0x00002488      0x118 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g72301832
+                0x000025a0       0x28 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g29191257
+                0x000025c8       0x42 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g51066377
+                0x0000260a       0x66 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g39280460
+                0x00002670       0x86 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g7600395
+                0x000026f6       0x46 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g20938602
+                0x0000273c        0x4 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g89875077
+                0x00002740       0x62 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g97926715
+                0x000027a2       0x24 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g58492309
+                0x000027c6       0x5a D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g24334396
+                0x00002820       0x10 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g62151375
+                0x00002830       0x34 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g25141588
+                0x00002864       0x16 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ *fill*         0x0000287a        0x2 
+ .text.g98950566
+                0x0000287c      0x14c D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g64497998
+                0x000029c8       0x70 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g49252320
+                0x00002a38       0xa0 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g94077144
+                0x00002ad8       0x30 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g23727049
+                0x00002b08       0x42 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ *fill*         0x00002b4a        0x2 
+ .text.g88897641
+                0x00002b4c       0xec D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g597884  0x00002c38       0x62 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g91231658
+                0x00002c9a       0x18 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g26440900
+                0x00002cb2       0x44 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ *fill*         0x00002cf6        0x2 
+ .text.g41760657
+                0x00002cf8      0x10c D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g11891693
+                0x00002e04      0x1ac D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g92069872
+                0x00002fb0       0x38 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g43796006
+                0x00002fe8      0x10e D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ *fill*         0x000030f6        0x2 
+ .text.g53874084.constprop.9
+                0x000030f8       0x30 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g29400440.constprop.12
+                0x00003128       0x76 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g24645071.constprop.11
+                0x0000319e       0x8a D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.unlikely.g51364639.constprop.10
+                0x00003228       0x8a D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g27493993.constprop.15
+                0x000032b2       0xe2 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g99846224.constprop.20
+                0x00003394       0x56 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ *fill*         0x000033ea        0x2 
+ .text.g51990380
+                0x000033ec       0x68 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g53319982
+                0x00003454       0x38 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g27631898.constprop.21
+                0x0000348c       0x60 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g97339286
+                0x000034ec       0x5c D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g83178667.constprop.22
+                0x00003548       0x3a D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ *fill*         0x00003582        0x2 
+ .text.g99070258.constprop.26
+                0x00003584       0x3c D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g81839681
+                0x000035c0      0x1c4 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g61862180
+                0x00003784       0xe0 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g38854839
+                0x00003864       0x50 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g77960643.constprop.24
+                0x000038b4      0x12c D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g1801516
+                0x000039e0       0xe0 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g31805085
+                0x00003ac0       0x3c D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g8908297
+                0x00003afc      0x1bc D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g57367710
+                0x00003cb8       0x14 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g23177118.constprop.27
+                0x00003ccc       0x5e D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.unlikely.g10964079
+                0x00003d2a       0x48 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g81370424
+                0x00003d72       0x12 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g59098036
+                0x00003d84       0x10 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g69590316
+                0x00003d94       0x1a D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ *fill*         0x00003dae        0x2 
+ .text.g72679687
+                0x00003db0       0xa8 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g62871035
+                0x00003e58      0x19c D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g40186168.part.6
+                0x00003ff4       0x46 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ *fill*         0x0000403a        0x2 
+ .text.g67655699
+                0x0000403c      0x1bc D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g90187998
+                0x000041f8       0x50 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g38303279
+                0x00004248      0x298 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g8816401
+                0x000044e0       0x8c D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g22021037
+                0x0000456c      0x230 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g8058542
+                0x0000479c       0x66 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.g25539630
+                0x00004802      0x118 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.unlikely.g5194026
+                0x0000491a       0x84 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .text.bk_get_product_info
+                0x0000499e       0x26 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+                0x0000499e                bk_get_product_info
+ .text.bk_init  0x000049c4      0x1a0 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+                0x000049c4                bk_init
+ .text.bk_enroll
+                0x00004b64      0x200 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+                0x00004b64                bk_enroll
+ .text.bk_start
+                0x00004d64      0x334 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+                0x00004d64                bk_start
+ .text.bk_get_key
+                0x00005098       0xb0 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+                0x00005098                bk_get_key
+ .text.bk_generate_random
+                0x00005148       0x3c D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+                0x00005148                bk_generate_random
+ .text.bk_get_private_key
+                0x00005184       0x6c D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+                0x00005184                bk_get_private_key
+ .text.bk_wrap  0x000051f0       0x4a D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+                0x000051f0                bk_wrap
+ .text.bk_unwrap
+                0x0000523a       0x50 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+                0x0000523a                bk_unwrap
+ *fill*         0x0000528a        0x2 
+ .text.bk_derive_public_key
+                0x0000528c       0x5c D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+                0x0000528c                bk_derive_public_key
+ .text.bk_create_private_key
+                0x000052e8      0x12c D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+                0x000052e8                bk_create_private_key
+ .text.bk_compute_public_from_private_key
+                0x00005414       0x5c D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+                0x00005414                bk_compute_public_from_private_key
+ .text.bk_import_public_key
+                0x00005470       0xa4 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+                0x00005470                bk_import_public_key
+ .text.bk_export_public_key
+                0x00005514       0x7c D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+                0x00005514                bk_export_public_key
+ .text.bk_ecdsa_sign
+                0x00005590      0x2a8 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+                0x00005590                bk_ecdsa_sign
+ .text.bk_ecdsa_verify
+                0x00005838      0x38a D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+                0x00005838                bk_ecdsa_verify
+ .text.bk_ecdh_shared_secret
+                0x00005bc2       0x7e D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+                0x00005bc2                bk_ecdh_shared_secret
+ .text.bk_generate_cryptogram
+                0x00005c40      0x2ee D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+                0x00005c40                bk_generate_cryptogram
+ .text.bk_process_cryptogram
+                0x00005f2e      0x318 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+                0x00005f2e                bk_process_cryptogram
+ *fill*         0x00006246        0x2 
+ .text.bk_get_public_key_from_cryptogram
+                0x00006248       0x78 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+                0x00006248                bk_get_public_key_from_cryptogram
+ .text.exit     0x000062c0       0x20 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-exit.o)
+                0x000062c0                exit
+ .text.memcmp   0x000062e0       0x64 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memcmp.o)
+                0x000062e0                memcmp
+ .text          0x00006344       0xec d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memcpy.o)
+                0x00006344                memcpy
+ .text.memset   0x00006430       0x9c d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memset.o)
+                0x00006430                memset
+ .text.__call_exitprocs
+                0x000064cc       0xd8 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o)
+                0x000064cc                __call_exitprocs
+ .text._exit    0x000065a4        0x4 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)
+                0x000065a4                _exit
+ *(.init)
+ .init          0x000065a8        0x4 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+                0x000065a8                _init
+ *(.fini)
+ .fini          0x000065ac        0x4 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+                0x000065ac                _fini
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata        0x000065b0      0xac0 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .rodata        0x00007070       0x37 ./USER/broadkey_with_enroll/src/iid_print.o
+ *fill*         0x000070a7        0x1 
+ .rodata        0x000070a8      0x188 ./USER/main.o
+ .rodata.g28887959
+                0x00007230       0x10 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g73422977
+                0x00007240        0x7 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g7388942
+                0x00007247       0xc0 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ *fill*         0x00007307        0x1 
+ .rodata.g73878249
+                0x00007308       0xb0 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g14656005
+                0x000073b8       0xb0 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g2471931
+                0x00007468       0x21 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g24945801
+                0x00007489       0x1c D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g63222466
+                0x000074a5       0x19 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ *fill*         0x000074be        0x2 
+ .rodata.g99268922
+                0x000074c0       0x26 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g11942663
+                0x000074e6        0x4 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g48837676
+                0x000074ea       0x1d D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g35739062
+                0x00007507        0x7 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g9858273
+                0x0000750e        0xb D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g12512503
+                0x00007519       0x18 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ *fill*         0x00007531        0x3 
+ .rodata.g48802284
+                0x00007534       0x20 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g69798728
+                0x00007554       0x20 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g72427988
+                0x00007574        0xc D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g39611615
+                0x00007580       0x20 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g35277562
+                0x000075a0        0x7 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g29755944
+                0x000075a7      0x100 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ *fill*         0x000076a7        0x1 
+ .rodata.g71710796
+                0x000076a8       0xb0 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g84076415
+                0x00007758       0x40 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g91641467
+                0x00007798       0x26 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ *fill*         0x000077be        0x2 
+ .rodata.g40929840
+                0x000077c0      0x100 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g29548912
+                0x000078c0        0x7 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ *fill*         0x000078c7        0x1 
+ .rodata.g71975971
+                0x000078c8        0xc D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g51653915
+                0x000078d4        0x7 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.g21287191
+                0x000078db       0x11 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .rodata.str1.4
+                0x000078ec        0x4 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-impure.o)
+                                  0x2 (size before relaxing)
+ .rodata._global_impure_ptr
+                0x000078f0        0x4 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-impure.o)
+                0x000078f0                _global_impure_ptr
+ *(.eh_frame*)
+
+.glue_7         0x000078f4        0x0
+ .glue_7        0x000078f4        0x0 linker stubs
+
+.glue_7t        0x000078f4        0x0
+ .glue_7t       0x000078f4        0x0 linker stubs
+
+.vfp11_veneer   0x000078f4        0x0
+ .vfp11_veneer  0x000078f4        0x0 linker stubs
+
+.v4_bx          0x000078f4        0x0
+ .v4_bx         0x000078f4        0x0 linker stubs
+
+.iplt           0x000078f4        0x0
+ .iplt          0x000078f4        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+
+.rel.dyn        0x000078f4        0x0
+ .rel.iplt      0x000078f4        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x000078f4                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x000078f4                __exidx_end = .
+                0x000078f4                __etext = .
+
+.data           0x20000000      0x440 load address 0x000078f4
+                0x20000000                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data.sram_puf
+                0x20000000        0x4 ./USER/main.o
+                0x20000000                sram_puf
+ .data.SystemCoreClock
+                0x20000004        0x4 ./SYSTEM/system_gw1ns2c.o
+                0x20000004                SystemCoreClock
+ .data.PCLK1    0x20000008        0x4 ./SYSTEM/system_gw1ns2c.o
+                0x20000008                PCLK1
+ .data.PCLK2    0x2000000c        0x4 ./SYSTEM/system_gw1ns2c.o
+                0x2000000c                PCLK2
+ .data.HCLK     0x20000010        0x4 ./SYSTEM/system_gw1ns2c.o
+                0x20000010                HCLK
+ *fill*         0x20000014        0x4 
+ .data.impure_data
+                0x20000018      0x428 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-impure.o)
+                0x20000440                . = ALIGN (0x4)
+                0x20000440                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x20000440                PROVIDE (__preinit_array_end, .)
+                0x20000440                . = ALIGN (0x4)
+                0x20000440                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+                0x20000440                PROVIDE (__init_array_end, .)
+                0x20000440                . = ALIGN (0x4)
+                0x20000440                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+                0x20000440                PROVIDE (__fini_array_end, .)
+                0x20000440                . = ALIGN (0x4)
+                0x20000440                __data_end__ = .
+
+.igot.plt       0x20000440        0x0 load address 0x00007d34
+ .igot.plt      0x20000440        0x0 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+
+.bss            0x20000440      0x468 load address 0x00007d34
+                0x20000440                . = ALIGN (0x4)
+                0x20000440                __bss_start__ = .
+ *(.bss*)
+ .bss.g93695439
+                0x20000440      0x468 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ *(COMMON)
+                0x200008a8                . = ALIGN (0x4)
+                0x200008a8                __bss_end__ = .
+
+.heap           0x200008a8      0x200
+                0x200008a8                __end__ = .
+                0x200008a8                end = __end__
+ *(.heap*)
+ .heap          0x200008a8      0x200 ./STARTUP/startup_gw1ns2c.o
+                0x200008a8                __HeapBase
+                0x20000aa8                __HeapLimit = .
+
+.stack_dummy    0x200008a8      0x400
+ *(.stack*)
+ .stack         0x200008a8      0x400 ./STARTUP/startup_gw1ns2c.o
+                0x20001c00                __StackTop = (ORIGIN (RAM) + LENGTH (RAM))
+                0x20001800                __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
+                0x20001c00                PROVIDE (__stack, __StackTop)
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+OUTPUT(broadkey_with_enroll.elf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x29
+ .ARM.attributes
+                0x00000000       0x1d d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+ .ARM.attributes
+                0x0000001d       0x33 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .ARM.attributes
+                0x00000050       0x33 ./USER/broadkey_with_enroll/src/iid_print.o
+ .ARM.attributes
+                0x00000083       0x33 ./USER/broadkey_with_enroll/src/iid_usart.o
+ .ARM.attributes
+                0x000000b6       0x33 ./USER/gw1ns2c_it.o
+ .ARM.attributes
+                0x000000e9       0x33 ./USER/main.o
+ .ARM.attributes
+                0x0000011c       0x33 ./SYSTEM/system_gw1ns2c.o
+ .ARM.attributes
+                0x0000014f       0x1b ./STARTUP/startup_gw1ns2c.o
+ .ARM.attributes
+                0x0000016a       0x33 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .ARM.attributes
+                0x0000019d       0x33 D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+ .ARM.attributes
+                0x000001d0       0x2d d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-exit.o)
+ .ARM.attributes
+                0x000001fd       0x2d d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000022a       0x2d d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memcmp.o)
+ .ARM.attributes
+                0x00000257       0x1b d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x00000272       0x2d d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000029f       0x2d d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x000002cc       0x2d d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)
+
+.comment        0x00000000       0x6e
+ .comment       0x00000000       0x6e ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+                                 0x6f (size before relaxing)
+ .comment       0x0000006e       0x6f ./USER/broadkey_with_enroll/src/iid_print.o
+ .comment       0x0000006e       0x6f ./USER/broadkey_with_enroll/src/iid_usart.o
+ .comment       0x0000006e       0x6f ./USER/gw1ns2c_it.o
+ .comment       0x0000006e       0x6f ./USER/main.o
+ .comment       0x0000006e       0x6f ./SYSTEM/system_gw1ns2c.o
+ .comment       0x0000006e       0x6f ./PERIPHER/Sources/gw1ns2c_uart.o
+ .comment       0x0000006e       0x6f D:\temp\broadkey_demo\broadkey_with_enroll\USER\broadkey_with_enroll\lib\libiidbroadkey_pro_256_m3.a(iidbroadkey_merged.c.obj)
+
+.debug_info     0x00000000     0x1d52
+ .debug_info    0x00000000      0xa58 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .debug_info    0x00000a58      0x2d7 ./USER/broadkey_with_enroll/src/iid_print.o
+ .debug_info    0x00000d2f      0x2f9 ./USER/broadkey_with_enroll/src/iid_usart.o
+ .debug_info    0x00001028      0x176 ./USER/gw1ns2c_it.o
+ .debug_info    0x0000119e      0x440 ./USER/main.o
+ .debug_info    0x000015de      0x104 ./SYSTEM/system_gw1ns2c.o
+ .debug_info    0x000016e2       0x76 ./STARTUP/startup_gw1ns2c.o
+ .debug_info    0x00001758      0x5fa ./PERIPHER/Sources/gw1ns2c_uart.o
+
+.debug_abbrev   0x00000000      0x7b1
+ .debug_abbrev  0x00000000      0x164 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .debug_abbrev  0x00000164       0xfa ./USER/broadkey_with_enroll/src/iid_print.o
+ .debug_abbrev  0x0000025e      0x100 ./USER/broadkey_with_enroll/src/iid_usart.o
+ .debug_abbrev  0x0000035e       0x5d ./USER/gw1ns2c_it.o
+ .debug_abbrev  0x000003bb      0x1c3 ./USER/main.o
+ .debug_abbrev  0x0000057e       0x7b ./SYSTEM/system_gw1ns2c.o
+ .debug_abbrev  0x000005f9       0x14 ./STARTUP/startup_gw1ns2c.o
+ .debug_abbrev  0x0000060d      0x1a4 ./PERIPHER/Sources/gw1ns2c_uart.o
+
+.debug_aranges  0x00000000      0x318
+ .debug_aranges
+                0x00000000       0x90 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .debug_aranges
+                0x00000090       0x60 ./USER/broadkey_with_enroll/src/iid_print.o
+ .debug_aranges
+                0x000000f0       0x30 ./USER/broadkey_with_enroll/src/iid_usart.o
+ .debug_aranges
+                0x00000120       0x88 ./USER/gw1ns2c_it.o
+ .debug_aranges
+                0x000001a8       0x68 ./USER/main.o
+ .debug_aranges
+                0x00000210       0x28 ./SYSTEM/system_gw1ns2c.o
+ .debug_aranges
+                0x00000238       0x20 ./STARTUP/startup_gw1ns2c.o
+ .debug_aranges
+                0x00000258       0xc0 ./PERIPHER/Sources/gw1ns2c_uart.o
+
+.debug_ranges   0x00000000      0x288
+ .debug_ranges  0x00000000       0x80 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .debug_ranges  0x00000080       0x50 ./USER/broadkey_with_enroll/src/iid_print.o
+ .debug_ranges  0x000000d0       0x20 ./USER/broadkey_with_enroll/src/iid_usart.o
+ .debug_ranges  0x000000f0       0x78 ./USER/gw1ns2c_it.o
+ .debug_ranges  0x00000168       0x58 ./USER/main.o
+ .debug_ranges  0x000001c0       0x18 ./SYSTEM/system_gw1ns2c.o
+ .debug_ranges  0x000001d8       0xb0 ./PERIPHER/Sources/gw1ns2c_uart.o
+
+.debug_macro    0x00000000     0x2d3f
+ .debug_macro   0x00000000       0xc6 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .debug_macro   0x000000c6      0x868 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .debug_macro   0x0000092e       0x1c ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .debug_macro   0x0000094a       0x22 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .debug_macro   0x0000096c       0x87 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .debug_macro   0x000009f3       0x44 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .debug_macro   0x00000a37       0xfd ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .debug_macro   0x00000b34       0x5e ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .debug_macro   0x00000b92      0x1df ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .debug_macro   0x00000d71       0x22 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .debug_macro   0x00000d93       0x19 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .debug_macro   0x00000dac       0x46 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .debug_macro   0x00000df2       0x7c ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .debug_macro   0x00000e6e       0xa6 ./USER/broadkey_with_enroll/src/iid_print.o
+ .debug_macro   0x00000f14       0xf1 ./USER/broadkey_with_enroll/src/iid_usart.o
+ .debug_macro   0x00001005       0x22 ./USER/broadkey_with_enroll/src/iid_usart.o
+ .debug_macro   0x00001027       0x22 ./USER/broadkey_with_enroll/src/iid_usart.o
+ .debug_macro   0x00001049      0x7b7 ./USER/broadkey_with_enroll/src/iid_usart.o
+ .debug_macro   0x00001800      0x399 ./USER/broadkey_with_enroll/src/iid_usart.o
+ .debug_macro   0x00001b99       0x76 ./USER/broadkey_with_enroll/src/iid_usart.o
+ .debug_macro   0x00001c0f       0x22 ./USER/broadkey_with_enroll/src/iid_usart.o
+ .debug_macro   0x00001c31       0xc2 ./USER/gw1ns2c_it.o
+ .debug_macro   0x00001cf3      0x273 ./USER/main.o
+ .debug_macro   0x00001f66       0x52 ./USER/main.o
+ .debug_macro   0x00001fb8       0x35 ./USER/main.o
+ .debug_macro   0x00001fed       0x9c ./USER/main.o
+ .debug_macro   0x00002089       0x16 ./USER/main.o
+ .debug_macro   0x0000209f       0x97 ./USER/main.o
+ .debug_macro   0x00002136      0x30d ./USER/main.o
+ .debug_macro   0x00002443       0xfd ./USER/main.o
+ .debug_macro   0x00002540       0x10 ./USER/main.o
+ .debug_macro   0x00002550       0x52 ./USER/main.o
+ .debug_macro   0x000025a2       0x1f ./USER/main.o
+ .debug_macro   0x000025c1       0x43 ./USER/main.o
+ .debug_macro   0x00002604       0x20 ./USER/main.o
+ .debug_macro   0x00002624      0x187 ./USER/main.o
+ .debug_macro   0x000027ab       0x10 ./USER/main.o
+ .debug_macro   0x000027bb       0x1c ./USER/main.o
+ .debug_macro   0x000027d7       0x52 ./USER/main.o
+ .debug_macro   0x00002829       0x40 ./USER/main.o
+ .debug_macro   0x00002869       0x10 ./USER/main.o
+ .debug_macro   0x00002879       0x40 ./USER/main.o
+ .debug_macro   0x000028b9       0xd7 ./USER/main.o
+ .debug_macro   0x00002990       0x16 ./USER/main.o
+ .debug_macro   0x000029a6      0x189 ./USER/main.o
+ .debug_macro   0x00002b2f       0x16 ./USER/main.o
+ .debug_macro   0x00002b45       0x35 ./USER/main.o
+ .debug_macro   0x00002b7a       0x16 ./USER/main.o
+ .debug_macro   0x00002b90       0x29 ./USER/main.o
+ .debug_macro   0x00002bb9       0xc4 ./SYSTEM/system_gw1ns2c.o
+ .debug_macro   0x00002c7d       0xc2 ./PERIPHER/Sources/gw1ns2c_uart.o
+
+.debug_line     0x00000000     0x2245
+ .debug_line    0x00000000      0x73e ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .debug_line    0x0000073e      0x3c9 ./USER/broadkey_with_enroll/src/iid_print.o
+ .debug_line    0x00000b07      0x41c ./USER/broadkey_with_enroll/src/iid_usart.o
+ .debug_line    0x00000f23      0x435 ./USER/gw1ns2c_it.o
+ .debug_line    0x00001358      0x607 ./USER/main.o
+ .debug_line    0x0000195f      0x366 ./SYSTEM/system_gw1ns2c.o
+ .debug_line    0x00001cc5       0x97 ./STARTUP/startup_gw1ns2c.o
+ .debug_line    0x00001d5c      0x4e9 ./PERIPHER/Sources/gw1ns2c_uart.o
+
+.debug_str      0x00000000     0xc81c
+ .debug_str     0x00000000     0x3eb6 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+                               0x40ee (size before relaxing)
+ .debug_str     0x00003eb6       0xd9 ./USER/broadkey_with_enroll/src/iid_print.o
+                               0x35a9 (size before relaxing)
+ .debug_str     0x00003f8f     0x47f7 ./USER/broadkey_with_enroll/src/iid_usart.o
+                               0x7c87 (size before relaxing)
+ .debug_str     0x00008786      0x104 ./USER/gw1ns2c_it.o
+                               0x7a9e (size before relaxing)
+ .debug_str     0x0000888a     0x3cde ./USER/main.o
+                               0xb985 (size before relaxing)
+ .debug_str     0x0000c568       0x8d ./SYSTEM/system_gw1ns2c.o
+                               0x7a3b (size before relaxing)
+ .debug_str     0x0000c5f5      0x227 ./PERIPHER/Sources/gw1ns2c_uart.o
+                               0x7d02 (size before relaxing)
+
+.debug_frame    0x00000000      0xc04
+ .debug_frame   0x00000000      0x258 ./USER/broadkey_with_enroll/src/broadkey_demo_app.o
+ .debug_frame   0x00000258      0x158 ./USER/broadkey_with_enroll/src/iid_print.o
+ .debug_frame   0x000003b0       0x80 ./USER/broadkey_with_enroll/src/iid_usart.o
+ .debug_frame   0x00000430      0x1b0 ./USER/gw1ns2c_it.o
+ .debug_frame   0x000005e0      0x17c ./USER/main.o
+ .debug_frame   0x0000075c       0x50 ./SYSTEM/system_gw1ns2c.o
+ .debug_frame   0x000007ac      0x354 ./PERIPHER/Sources/gw1ns2c_uart.o
+ .debug_frame   0x00000b00       0x28 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-exit.o)
+ .debug_frame   0x00000b28       0x38 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memcmp.o)
+ .debug_frame   0x00000b60       0x34 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memset.o)
+ .debug_frame   0x00000b94       0x50 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000be4       0x20 d:/program files (x86)/gnu tools arm embedded/5.4 2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)
